@@ -1,0 +1,12 @@
+---
+title:  'The Difference'
+subtitle:  'A Popular Guide to Denominational History and Doctrine'
+author:  'I.G. Monson'
+date:  '1915'
+documentclass:  book
+---
+
+# Preface {.unlisted .unnumbered}
+What is the difference between the various Christian sects?  The common answer is that there is no difference, that they all have the same Bible, that all are trying to reach the same place, etc.  For the ignorant this is the easiest way to get away from this question.  The lazy, indifferent, and the unbeliever will find the same answer the most convenient.  But any one interested in truth and in Christianity will gladly accept information concerning the most important questions in life.
+
+

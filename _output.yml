@@ -1,0 +1,6 @@
+title:  'The Difference'
+author:  'I.G. Monson'
+output:
+  bookdown::pdf_book:
+    keep_tex:  true
+    mainfont:  Gentium
