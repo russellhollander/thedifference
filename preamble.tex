@@ -1,0 +1,16 @@
+\usepackage{imakeidx}
+\makeindex[intoc=true,columns=2]
+
+\newcommand{\ii}[1]{{\it #1}}
+\newcommand{\nn}[1]{#1n}
+
+% to create a "see also" that appears at the bottom of the
+% subentries and with no page number, do the following:
+% \index{Main entry!zzzzz@\igobble|seealso{Other item}}
+
+% Example:
+% Backups\index{Version Control!zzzzz@\igobble|seealso{backups}
+% should be part of your version control system.
+
+\def\igobble#1{}
+

@@ -63,6 +63,22 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
+\usepackage{imakeidx}
+\makeindex[intoc=true,columns=2]
+
+\newcommand{\ii}[1]{{\it #1}}
+\newcommand{\nn}[1]{#1n}
+
+% to create a "see also" that appears at the bottom of the
+% subentries and with no page number, do the following:
+% \index{Main entry!zzzzz@\igobble|seealso{Other item}}
+
+% Example:
+% Backups\index{Version Control!zzzzz@\igobble|seealso{backups}
+% should be part of your version control system.
+
+\def\igobble#1{}
+
 \usepackage{gentium}
 \ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
@@ -151,13 +167,13 @@ We shall now pass in review the principal denomination which have a following in
 
 \subsection{THE ANGLICAN CHURCH}\label{the-anglican-church}
 
-Many dignitaries of the Anglican Church do not, at the present time, like to date the beginning of their denomination from the time of the Reformation. And some would like to ignore the Reformation altogether. Says one: ``England has never had but one religion; it has never changed that religion, and it has that religion still.''
+Many dignitaries of the Anglican\index{Anglican Church!zzzzz@\igobble|seealso{Episcopal Church}} Church do not, at the present time, like to date the beginning of their denomination from the time of the Reformation. And some would like to ignore the Reformation altogether. Says one: ``England has never had but one religion; it has never changed that religion, and it has that religion still.''
 
 From the sixth century until the year 1534, when Henry VIII was refused the sanction of the pope to a divorce from his first wife (he had six in all), England was as much a Catholic country as any other of the European states. In that year, to avenge himself on the pope, Henry ``denied the papal supremacy, and declared himself to be the one protector of the English Church, its only and supreme lord, and, so far as might be by the laws of Christ, its supreme head.'' And this Parliament later confirmed. This was the beginning of the revolt which carried England outside the Catholic fold.
 
 Writings of Luther and, later, of the Swiss Reformers were early and eagerly read in England. Henry, who had written against Luther before the breach with the pope, continued in the Church, and, as far as Roman doctrine is concerned, died a Catholid; but when his son, Edward VI, ascended the throne, in 1547, reform ideas were so well rooted that Archbishop Thomas Cranmer, counseled mainly by Reformed theologians (Martin Bucer, Peter Martyr), in 1552 set up a confession of faith containing forty-two articles, later cut down to thirty-nine at the Synod of London, in 1562. This confession was ratified by Parliament in 1571, and thereby became a part of the law of the land. ``The Book of Common Prayer,'' which is still in use, contains not only this document, but also a full ritual for all occasions during the church-year.
 
-The Thirty-nine Articles, the confession of the Anglican Church, are decidedly Reformed in tone and tendency, though in many respects taking a middle course between the Lutheran and the Reformed. But when Episcopal missionaries say to Lutheran immigrants that their Church is the Lutheran, excepting the language, they ought to know that they are not telling the truth. The Episcopal Church in the United States is only the Anglican Church without state-connections. It is officially known as The Protestant Episcopal Church. As such it dates from 1787, when it received its first bishop, Dr.~Seabury, and constituted itself independent of England.
+The Thirty-nine Articles, the confession of the Anglican Church, are decidedly Reformed in tone and tendency, though in many respects taking a middle course between the Lutheran and the Reformed. But when Episcopal missionaries say to Lutheran immigrants that their Church is the Lutheran, excepting the language, they ought to know that they are not telling the truth. The Episcopal Church in the United States is only the Anglican Church without state-connections. It is officially known as The Protestant Episcopal\index{Episcopal Church} Church. As such it dates from 1787, when it received its first bishop, Dr.~Seabury, and constituted itself independent of England.
 
 In 1873, it suffered a small loss through a few priests, who left it on account of a ritualistic (Romish) tendency, which was rapidly gaining ground in the Church. They reduced the confession to thirty-five articles, and changed a few expressions here and there. They are known as The Reformed Episcopal Church.
 
@@ -243,7 +259,7 @@ The late Senator Hoar of Massachusetts used to ask this conundrum, ``What is the
 
 These churches accept the Bible as their guide in spiritual matters, but only so far as it accords with human reason. They do not believe in the Trinity, original sin, redemption, atonement, endless punishment, etc., but believe that all will be saved, or -- some of them -- that the wicked will be annihilated.
 
-\subsection{THE ADVENTISTS}\label{the-adventists}
+\subsection{\texorpdfstring{THE ADVENTISTS\index{Adventists}}{THE ADVENTISTS}}\label{the-adventists}
 
 It would not be proper to lay the heresy of the Advent Church at the door of the Baptists, and yet a Baptist clergyman is responsible for its existence.
 
@@ -461,7 +477,7 @@ Christ warned against being an ``unbeliever, a heathen and a publican.'' (Matt. 
 \setcounter{enumi}{1}
 \tightlist
 \item
-  A large class of unbelievers call themselves agnostics. This sounds better than atheists and freethinkers, but they are in reality their triplet brother. The ``believ'' of the agnostic is ``We do not know whether there is a God.'' (``The problem of existence has not been solved, and it is insoluble'': (Thomas Huxley.) This dictum has been applied, not only to human existence, but to God Himself, as well as to His revelation.
+  A large class of unbelievers call themselves agnostics\index{Agnostics}. This sounds better than atheists and freethinkers, but they are in reality their triplet brother. The ``believ'' of the agnostic is ``We do not know whether there is a God.'' (``The problem of existence has not been solved, and it is insoluble'': (Thomas Huxley.) This dictum has been applied, not only to human existence, but to God Himself, as well as to His revelation.
 \end{enumerate}
 
 \begin{center}
@@ -1237,7 +1253,7 @@ The reason for doing good works \emph{Chemnitz} explains as follows: ``Such are 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \item
-  All antichristian sects, such as \emph{Socinians, Unitarians, Mormons, Seventh-day Adventists}. Denying the atonement of Christ, they must have ``something religious'' to fall back on. But why even that? If either all are saved at last, or the so-called wicked utterly destroyed, who would really battle ``to be good''? Their dictum of ``good deeds necessary to salvation'' is, therefore, only a proof of the truth that ``conscience makes cowards of us all.''
+  All antichristian sects, such as \emph{Socinians, Unitarians, Mormons, Seventh-day Adventists}\index{Adventists}. Denying the atonement of Christ, they must have ``something religious'' to fall back on. But why even that? If either all are saved at last, or the so-called wicked utterly destroyed, who would really battle ``to be good''? Their dictum of ``good deeds necessary to salvation'' is, therefore, only a proof of the truth that ``conscience makes cowards of us all.''
 \item
   The \emph{Catholic Church}, from from \emph{the average sectarian}, wittingly or unwittingly, has absorbed that pernicious mixture of Law and Gospel which characterizes the Roman system.
 \end{enumerate}
@@ -1301,7 +1317,7 @@ Rom. 1, 16: ``The Gospel of Christ is a power of God unto salvation to every one
 \item
   According to \emph{Methodism} ``The means of grace are either instituted or prudential.'' The instituded are ``prayer, searching the Scriptures, the Lord's Supper, fasting, and Christian conference.'' (\emph{Doctr. and Discipl.}, §§ 118-122.) According to this explanation everything enjoined in Scripture is a means of grace, \emph{e. g.}, the Ten Commandments with their deeper, spiritual explanation, as found in ther Sermon on the Mount, Matt. 5-7! Of the Sacraments the \emph{Methodists} say: ``A Sacrament is an outward and visible \emph{sign} of an inward and spiritual grace.'' -- \emph{Cat,}, No.~3.
 \item
-  The \emph{Episcopal Church} teaches that ``Sacraments ordained of Christ be not only badges or tokens of Christian men's profession, but rather they be certain sure witnesses, and effectual \emph{signs of grace}, and GOd's good will towards us, by which He doth work invisibly in us, and doth not only quicken, but also strengthen and confirm, our faith in Him.'' (\emph{Art. of Rel.}, XXV.) The \emph{Reformed Episocopal Church} expressly states that it wants the word ``Sacrament to mean only a symbol or sign instituted by God.'' (Art. 25.)
+  The \emph{Episcopal\index{Episcopal Church} Church} teaches that ``Sacraments ordained of Christ be not only badges or tokens of Christian men's profession, but rather they be certain sure witnesses, and effectual \emph{signs of grace}, and GOd's good will towards us, by which He doth work invisibly in us, and doth not only quicken, but also strengthen and confirm, our faith in Him.'' (\emph{Art. of Rel.}, XXV.) The \emph{Reformed Episocopal\index{Episcopal Church} Church} expressly states that it wants the word ``Sacrament to mean only a symbol or sign instituted by God.'' (Art. 25.)
 \item
   \emph{Presbyterians} and \emph{Congregationalists} confess: ``Sacraments are holy \emph{signs} and seals of the covenant of grace, immediately instituted by God, to represent Christ and His benefits, and to confirm our interest in Him, as also to put a visible difference between those that belong unto the Church and the rest of the world, and solemnly to engage them to the service of God in Christ, according to His Word.'' -- Chap. XXVII, 1. \emph{Savoy Decl.}, chap.~XXVIII.
 \end{enumerate}
@@ -1414,7 +1430,7 @@ Acts 22, 16. On reciting at Jerusalem the story of his conversion, Paul also rel
 
 With the Word of God in this doctrine the Lutheran Church stands alone. \emph{All the others} follow blind reason, and \emph{declare that Baptism does not effect regeneration, but is only a sign of regeneration, or the new birth}.
 
-\emph{Episcopalians}, \emph{Presbyterians}, \emph{Baptists}, \emph{Congregationalists}, and \emph{Methodists} differ in their confessions about Baptism in language only. The Presbyterian may be taken as a model: ``Baptism is a Sacrament of the New Testament, ordained by Jesus Christ, not only for the solemn admission of the party baptized into the visible Church, but also to be unto him a \emph{sign and a seal} of the covenant of grace, of his ingrafting into Christ, of regeneration, of remission of sins, and of his giving up unto God, through Jesus Christ, to walk in newness of life: which Sacrament is, by Christ's own appointment, to be continued in His Church until the end of the world.'' (XXVIII.)
+\emph{Episcopalians\index{Episcopal Church}}, \emph{Presbyterians}, \emph{Baptists}, \emph{Congregationalists}, and \emph{Methodists} differ in their confessions about Baptism in language only. The Presbyterian may be taken as a model: ``Baptism is a Sacrament of the New Testament, ordained by Jesus Christ, not only for the solemn admission of the party baptized into the visible Church, but also to be unto him a \emph{sign and a seal} of the covenant of grace, of his ingrafting into Christ, of regeneration, of remission of sins, and of his giving up unto God, through Jesus Christ, to walk in newness of life: which Sacrament is, by Christ's own appointment, to be continued in His Church until the end of the world.'' (XXVIII.)
 
 \begin{center}
 \textsl{But God says:--}
@@ -1535,12 +1551,12 @@ Baptism by immersion was undeniably practised in the first few centuries after t
 The Lord's Supper is to be repeated because \emph{Christ expressly comands it}. In the institution of Baptism no such command is added. IN the whole Bible no instance of repetition is recorded. The covenant made in Baptism may be broken by man, but not by the Lord. He who repents and returns to GOd will find the baptismal covenant still in force.
 
 \begin{center}
-\textbf{D.  The Office of the Keys, or Absolution.}
+\textbf{D.  The Office of the Keys, or Absolution\index{Absolution}.}
 
 \textsc{Bible Doctrine.}
 \end{center}
 
-\emph{Definition}. -- ``Through the office of the ministry God has given to the Church the command and power to pass judgment on the unbelieving and impenitent sinner, and, for Christ's sake, to absolve the believing and penitent.'' -- \emph{Chemnitz}, \emph{Enchir. and Ex.}
+\emph{Definition}. -- ``Through the office\index{Keys, Office of!zzzzz@\igobble|seealso{Absolution}} of the ministry God has given to the Church the command and power to pass judgment on the unbelieving and impenitent sinner, and, for Christ's sake, to absolve the believing and penitent.'' -- \emph{Chemnitz}, \emph{Enchir. and Ex.}
 
 Matt. 16, 19: ``Whatsoever thou shalt bind on earth shall be bound in heaven, and whatsoever thou shalt lose on earth shall be loosed in heaven.''
 
@@ -1569,7 +1585,7 @@ John 20, 23 (to all the disciples): ``Whosoever sins ye remit, they are remitted
 \item
   The \emph{Reformed Churches}, one and all, practise neither private nor public absolution. Zwingli ridiculed it, and Calvin says: ``The power of the keys is simply the preaching of the Gospel,\ldots and in so far as men are concerned, it is not so much power as ministry. Properly speaking, Christ did not give this power to men, but to His Word, of which He made men the ministers.'' -- \emph{Instit.}, IV, 11, 1.
 \item
-  The \emph{Episcopalians} have substituted for absolution this formula in \emph{Warning for the Celebration of the Holy Communion}: ``If there be any of you who by this means cannot quiet his own conscience herein, but requireth further comfort or counsel, let him come to me, or to some other minister of God's Word, and open his grief that he may receive such godly counsel and advice as may tend to the quieting of his conscience and the removing of all scruple and doubtfulness.'' -- \emph{Book of Com. Prayer}, Exhort.
+  The \emph{Episcopalians\index{Episcopal Church}} have substituted for absolution this formula in \emph{Warning for the Celebration of the Holy Communion}: ``If there be any of you who by this means cannot quiet his own conscience herein, but requireth further comfort or counsel, let him come to me, or to some other minister of God's Word, and open his grief that he may receive such godly counsel and advice as may tend to the quieting of his conscience and the removing of all scruple and doubtfulness.'' -- \emph{Book of Com. Prayer}, Exhort.
 \item
   The \emph{Presbyterians} speak only of ``Church Censure'' (\emph{Westm. Conf.}, XXX), and the \emph{Methodists} have invented the ``class-meeting'' with its ``class-leader'' as a substitute for the ordinance of God. -- \emph{Ch. Discipl.}, II, 28.
 \end{enumerate}
@@ -1617,7 +1633,7 @@ In his \emph{Reckoning of Faith} (presented at Augsburg, 1530) this is his stand
 \item
   \emph{The Heidelberg Catechism} (by Ursinus and Olevianus, 1563) is the mother confession of all later Reformed confessions. Of the Eucharist it says: ``The Lord's Supper is a distributing and receiving of bread and wine commanded of Christ unto the faithful, that by \emph{these signs} He might testify that He has delivered and yielded His body unto death, and has shed His blood for them, and does give them these things to eat and drink, that they might be unto them the meat and drink of eternal life, and that thereby also He might testify that He would dwell in them, nourish and quicken them forever.'' (Quest. 75, Ursin's \emph{Explication}; Henry Parry's translation.) -- Again: ``To eat is to believe, to receive remission of sin by faith, to be united to Christ, to be made partakers of the life of Christ.'' (Qu. 76.) Again: ``The literal sense, if it be properly taken, can be \emph{no other wise} understood than thus: The substance of this bread is the substance of My body. But so to understand it is an \emph{undoubted absurdity}.'' (Qu. 77.)
 \item
-  \emph{The Book of Common Prayer (Episcopal)} says in ``a catechism\ldots to be learned\ldots before confirmation'': ``Why was the Sacrament of the Lord's Supper ordained? \emph{Ans.}: For the continual remembrance of the sacrifice of the death of Christ, and of the benefits which we receive thereby. What is the inward part, or thing signified? \emph{Ans.}: The body and blood fo Christ, which are \emph{spiritually taken and received} by the faithful in the Lord's Supper.'' (p.~228.) -- In the Episcopal \emph{Articles of Religion}, Art. XXVIII speaks in the first part of ``partaking of the body and blood of Christ,'' but concludes by stating that ``The body of Christ is given, taken, and eaten, in the Supper, only after \emph{an heavenly and spiritual manner}. And the means whereby the body of Christ is received and eaten in the Supper is faith.'' (Reformed Episcopals the same in substance.)
+  \emph{The Book of Common Prayer (Episcopal)\index{Episcopal Church}} says in ``a catechism\ldots to be learned\ldots before confirmation'': ``Why was the Sacrament of the Lord's Supper ordained? \emph{Ans.}: For the continual remembrance of the sacrifice of the death of Christ, and of the benefits which we receive thereby. What is the inward part, or thing signified? \emph{Ans.}: The body and blood fo Christ, which are \emph{spiritually taken and received} by the faithful in the Lord's Supper.'' (p.~228.) -- In the Episcopal \emph{Articles of Religion}, Art. XXVIII speaks in the first part of ``partaking of the body and blood of Christ,'' but concludes by stating that ``The body of Christ is given, taken, and eaten, in the Supper, only after \emph{an heavenly and spiritual manner}. And the means whereby the body of Christ is received and eaten in the Supper is faith.'' (Reformed Episcopals the same in substance.)
 \item
   The \emph{Presbyterians} say: ``Worthy receivers, outwardly partaking of the visible elements in this Sacrament, do then also inwardly by faith, really and indeed, yet not carnally and corporally, but spiritually, receive and feed upon Christ crucified, and all benefits of His death: the body and blood of Christ being there not corporally or carnally in, with, or under the bread and wine; yet as really, but spiritually, present to the faith of believers in that ordinance, as the elements themselves are to their outward senses.'' -- \emph{Westm. Conf.}, Art. XXIX, 7.
 \item
@@ -1759,5 +1775,7 @@ Dan. 12, 2: ``And many of them that sleep in the dust of the earth shall awake, 
 Rom. 14, 10: ``We shall all stand before the judgment-seat of Christ.''
 
 Matt. 25, 41. 46: ``Then shall He say unto them on the left hand: Depart from Me, ye cursed, into everlasting fire, prepared for the devil and his angels. And these shall go away into everlasting punishment, but the righteous into life eternal.''
+
+\printindex
 
 \end{document}

@@ -5,3 +5,6 @@ output:
     keep_tex:  true
     extra_dependencies:
       gentium:  null
+    includes:
+      in_header:  preamble.tex
+      after_body:  after_body.tex

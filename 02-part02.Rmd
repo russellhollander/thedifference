@@ -41,7 +41,7 @@ John 14, 6:  "I am the Way, the Truth, and the Life; no man cometh unto the Fath
 
 Christ warned against being an "unbeliever, a heathen and a publican."  (Matt. 18, 17; Mark 16, 17.)
 
-2.  A large class of unbelievers call themselves agnostics.  This sounds better than atheists and freethinkers, but they are in reality their triplet brother.  The "believ" of the agnostic is "We do not know whether there is a God."  ("The problem of existence has not been solved, and it is insoluble":  (Thomas Huxley.)  This dictum has been applied, not only to human existence, but to God Himself, as well as to His revelation.
+2.  A large class of unbelievers call themselves agnostics\index{Agnostics}.  This sounds better than atheists and freethinkers, but they are in reality their triplet brother.  The "believ" of the agnostic is "We do not know whether there is a God."  ("The problem of existence has not been solved, and it is insoluble":  (Thomas Huxley.)  This dictum has been applied, not only to human existence, but to God Himself, as well as to His revelation.
 
 \begin{center}
 \textsl{But God says:--}
@@ -730,7 +730,7 @@ The reason for doing good works _Chemnitz_ explains as follows:  "Such are not u
 \textsc{Error.}
 \end{center}
 
-1.  All antichristian sects, such as _Socinians, Unitarians, Mormons, Seventh-day Adventists_.  Denying the atonement of Christ, they must have "something religious" to fall back on.  But why even that?  If either all are saved at last, or the so-called wicked utterly destroyed, who would really battle "to be good"?  Their dictum of "good deeds necessary to salvation" is, therefore, only a proof of the truth that "conscience makes cowards of us all."
+1.  All antichristian sects, such as _Socinians, Unitarians, Mormons, Seventh-day Adventists_\index{Adventists}.  Denying the atonement of Christ, they must have "something religious" to fall back on.  But why even that?  If either all are saved at last, or the so-called wicked utterly destroyed, who would really battle "to be good"?  Their dictum of "good deeds necessary to salvation" is, therefore, only a proof of the truth that "conscience makes cowards of us all."
 
 2.  The _Catholic Church_, from from _the average sectarian_, wittingly or unwittingly, has absorbed that pernicious mixture of Law and Gospel which characterizes the Roman system.
 
@@ -789,7 +789,7 @@ Rom. 1, 16:  "The Gospel of Christ is a power of God unto salvation to every one
 
 2.  According to _Methodism_ "The means of grace are either instituted or prudential."  The instituded are "prayer, searching the Scriptures, the Lord's Supper, fasting, and Christian conference."  (_Doctr. and Discipl._, §§ 118-122.)  According to this explanation everything enjoined in Scripture is a means of grace, _e. g._, the Ten Commandments with their deeper, spiritual explanation, as found in ther Sermon on the Mount, Matt. 5-7!  Of the Sacraments the _Methodists_ say:  "A Sacrament is an outward and visible _sign_ of an inward and spiritual grace."  -- _Cat,_, No. 3.
 
-3.  The _Episcopal Church_ teaches that "Sacraments ordained of Christ be not only badges or tokens of Christian men's profession, but rather they be certain sure witnesses, and effectual _signs of grace_, and GOd's good will towards us, by which He doth work invisibly in us, and doth not only quicken, but also strengthen and confirm, our faith in Him."  (_Art. of Rel._, XXV.)  The _Reformed Episocopal Church_ expressly states that it wants the word "Sacrament to mean only a symbol or sign instituted by God."  (Art. 25.)
+3.  The _Episcopal\index{Episcopal Church} Church_ teaches that "Sacraments ordained of Christ be not only badges or tokens of Christian men's profession, but rather they be certain sure witnesses, and effectual _signs of grace_, and GOd's good will towards us, by which He doth work invisibly in us, and doth not only quicken, but also strengthen and confirm, our faith in Him."  (_Art. of Rel._, XXV.)  The _Reformed Episocopal\index{Episcopal Church} Church_ expressly states that it wants the word "Sacrament to mean only a symbol or sign instituted by God."  (Art. 25.)
 
 4.  _Presbyterians_ and _Congregationalists_ confess:  "Sacraments are holy _signs_ and seals of the covenant of grace, immediately instituted by God, to represent Christ and His benefits, and to confirm our interest in Him, as also to put a visible difference between those that belong unto the Church and the rest of the world, and solemnly to engage them to the service of God in Christ, according to His Word." -- Chap. XXVII, 1.  _Savoy Decl._, chap. XXVIII.
 
@@ -897,7 +897,7 @@ Acts 22, 16.  On reciting at Jerusalem the story of his conversion, Paul also re
 
 With the Word of God in this doctrine the Lutheran Church stands alone.  _All the others_ follow blind reason, and _declare that Baptism does not effect regeneration, but is only a sign of regeneration, or the new birth_.
 
-_Episcopalians_, _Presbyterians_, _Baptists_, _Congregationalists_, and _Methodists_ differ in their confessions about Baptism in language only.  The Presbyterian may be taken as a model:  "Baptism is a Sacrament of the New Testament, ordained by Jesus Christ, not only for the solemn admission of the party baptized into the visible Church, but also to be unto him a _sign and a seal_ of the covenant of grace, of his ingrafting into Christ, of regeneration, of remission of sins, and of his giving up unto God, through Jesus Christ, to walk in newness of life:  which Sacrament is, by Christ's own appointment, to be continued in His Church until the end of the world."  (XXVIII.)
+_Episcopalians\index{Episcopal Church}_, _Presbyterians_, _Baptists_, _Congregationalists_, and _Methodists_ differ in their confessions about Baptism in language only.  The Presbyterian may be taken as a model:  "Baptism is a Sacrament of the New Testament, ordained by Jesus Christ, not only for the solemn admission of the party baptized into the visible Church, but also to be unto him a _sign and a seal_ of the covenant of grace, of his ingrafting into Christ, of regeneration, of remission of sins, and of his giving up unto God, through Jesus Christ, to walk in newness of life:  which Sacrament is, by Christ's own appointment, to be continued in His Church until the end of the world."  (XXVIII.)
 
 \begin{center}
 \textsl{But God says:--}
@@ -1018,12 +1018,12 @@ _Answer_. -- Since there is no warrant in the Scriptures for the Catholic doctri
 The Lord's Supper is to be repeated because _Christ expressly comands it_.  In the institution of Baptism no such command is added.  IN the whole Bible no instance of repetition is recorded.  The covenant made in Baptism may be broken by man, but not by the Lord.  He who repents and returns to GOd will find the baptismal covenant still in force.
 
 \begin{center}
-\textbf{D.  The Office of the Keys, or Absolution.}
+\textbf{D.  The Office of the Keys, or Absolution\index{Absolution}.}
 
 \textsc{Bible Doctrine.}
 \end{center}
 
-_Definition_. -- "Through the office of the ministry God has given to the Church the command and power to pass judgment on the unbelieving and impenitent sinner, and, for Christ's sake, to absolve the believing and penitent." -- _Chemnitz_, _Enchir. and Ex._
+_Definition_. -- "Through the office\index{Keys, Office of!zzzzz@\igobble|seealso{Absolution}} of the ministry God has given to the Church the command and power to pass judgment on the unbelieving and impenitent sinner, and, for Christ's sake, to absolve the believing and penitent." -- _Chemnitz_, _Enchir. and Ex._
 
 Matt. 16, 19:  "Whatsoever thou shalt bind on earth shall be bound in heaven, and whatsoever thou shalt lose on earth shall be loosed in heaven."
 
@@ -1049,7 +1049,7 @@ John 20, 23 (to all the disciples):  "Whosoever sins ye remit, they are remitted
 
 2.  The _Reformed Churches_, one and all, practise neither private nor public absolution.  Zwingli ridiculed it, and Calvin says:  "The power of the keys is simply the preaching of the Gospel,...and in so far as men are concerned, it is not so much power as ministry.  Properly speaking, Christ did not give this power to men, but to His Word, of which He made men the ministers." -- _Instit._, IV, 11, 1.
 
-3.  The _Episcopalians_ have substituted for absolution this formula in _Warning for the Celebration of the Holy Communion_:  "If there be any of you who by this means cannot quiet his own conscience herein, but requireth further comfort or counsel, let him come to me, or to some other minister of God's Word, and open his grief that he may receive such godly counsel and advice as may tend to the quieting of his conscience and the removing of all scruple and doubtfulness." -- _Book of Com. Prayer_, Exhort.
+3.  The _Episcopalians\index{Episcopal Church}_ have substituted for absolution this formula in _Warning for the Celebration of the Holy Communion_:  "If there be any of you who by this means cannot quiet his own conscience herein, but requireth further comfort or counsel, let him come to me, or to some other minister of God's Word, and open his grief that he may receive such godly counsel and advice as may tend to the quieting of his conscience and the removing of all scruple and doubtfulness." -- _Book of Com. Prayer_, Exhort.
 
 4.  The _Presbyterians_ speak only of "Church Censure" (_Westm. Conf._, XXX), and the _Methodists_ have invented the "class-meeting" with its "class-leader" as a substitute for the ordinance of God. -- _Ch. Discipl._, II, 28.
 
@@ -1083,7 +1083,7 @@ In his _Reckoning of Faith_ (presented at Augsburg, 1530) this is his standpoint
 
 3.  _The Heidelberg Catechism_ (by Ursinus and Olevianus, 1563) is the mother confession of all later Reformed confessions.  Of the Eucharist it says:  "The Lord's Supper is a distributing and receiving of bread and wine commanded of Christ unto the faithful, that by _these signs_ He might testify that He has delivered and yielded His body unto death, and has shed His blood for them, and does give them these things to eat and drink, that they might be unto them the meat and drink of eternal life, and that thereby also He might testify that He would dwell in them, nourish and quicken them forever."  (Quest. 75, Ursin's _Explication_; Henry Parry's translation.) -- Again:  "To eat is to believe, to receive remission of sin by faith, to be united to Christ, to be made partakers of the life of Christ."  (Qu. 76.)  Again:  "The literal sense, if it be properly taken, can be _no other wise_ understood than thus:  The substance of this bread is the substance of My body.  But so to understand it is an _undoubted absurdity_."  (Qu. 77.)
 
-4.  _The Book of Common Prayer (Episcopal)_ says in "a catechism...to be learned...before confirmation":  "Why was the Sacrament of the Lord's Supper ordained?  _Ans._:  For the continual remembrance of the sacrifice of the death of Christ, and of the benefits which we receive thereby.  What is the inward part, or thing signified?  _Ans._:  The body and blood fo Christ, which are _spiritually taken and received_ by the faithful in the Lord's Supper."  (p. 228.) -- In the Episcopal _Articles of Religion_, Art. XXVIII speaks in the first part of "partaking of the body and blood of Christ," but concludes by stating that "The body of Christ is given, taken, and eaten, in the Supper, only after _an heavenly and spiritual manner_.  And the means whereby the body of Christ is received and eaten in the Supper is faith."  (Reformed Episcopals the same in substance.)
+4.  _The Book of Common Prayer (Episcopal)\index{Episcopal Church}_ says in "a catechism...to be learned...before confirmation":  "Why was the Sacrament of the Lord's Supper ordained?  _Ans._:  For the continual remembrance of the sacrifice of the death of Christ, and of the benefits which we receive thereby.  What is the inward part, or thing signified?  _Ans._:  The body and blood fo Christ, which are _spiritually taken and received_ by the faithful in the Lord's Supper."  (p. 228.) -- In the Episcopal _Articles of Religion_, Art. XXVIII speaks in the first part of "partaking of the body and blood of Christ," but concludes by stating that "The body of Christ is given, taken, and eaten, in the Supper, only after _an heavenly and spiritual manner_.  And the means whereby the body of Christ is received and eaten in the Supper is faith."  (Reformed Episcopals the same in substance.)
 
 5.  The _Presbyterians_ say:  "Worthy receivers, outwardly partaking of the visible elements in this Sacrament, do then also inwardly by faith, really and indeed, yet not carnally and corporally, but spiritually, receive and feed upon Christ crucified, and all benefits of His death:  the body and blood of Christ being there not corporally or carnally in, with, or under the bread and wine; yet as really, but spiritually, present to the faith of believers in that ordinance, as the elements themselves are to their outward senses." -- _Westm. Conf._, Art. XXIX, 7.
 
