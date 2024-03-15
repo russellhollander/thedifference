@@ -55,7 +55,7 @@ John 1, 14:  "And the Word was made flesh, and dwelt among us; and we beheld His
 
 Rom. 1, 19:  "even the heathen acknowledge the existence of God.
 
-_What Is an Atheist?_ -- A snare to the simple-minded Christian is the oft repeated assertion that so and so was no atheist, because he had confessed his belief in a personal God or, perhaps, in "a Higher Power."  It is true, the words of the Psalmist (14, 1), "The fool saith in his heart, There is no God," describe more nearly the person called "atheist."  But all who do not confess the true God are properly to be classed as having no God at all.  Christ says:  "He that honoreth not the Son honoreth not the Father."  (John 5, 23.)  "Whosoever shall deny Me before men, him will I also deny before My Father which is in heaven."  (Matt. 10, 33.)  And the Holy Spirit testifies:  "Whosoever denieth the Son, the same hath not the Father."  (1 John 2, 23.  Compare also 2 John, v. 9.)
+_What Is an Atheist?\index{Atheists}_ -- A snare to the simple-minded Christian is the oft repeated assertion that so and so was no atheist, because he had confessed his belief in a personal God or, perhaps, in "a Higher Power."  It is true, the words of the Psalmist (14, 1), "The fool saith in his heart, There is no God," describe more nearly the person called "atheist."  But all who do not confess the true God are properly to be classed as having no God at all.  Christ says:  "He that honoreth not the Son honoreth not the Father."  (John 5, 23.)  "Whosoever shall deny Me before men, him will I also deny before My Father which is in heaven."  (Matt. 10, 33.)  And the Holy Spirit testifies:  "Whosoever denieth the Son, the same hath not the Father."  (1 John 2, 23.  Compare also 2 John, v. 9.)
 
 _Lodge Religion_. -- Under this head must be ranged all lodges which require a "belief in a Supreme Being" from their members, but who do not define this "Being" as the Triune God, Father, Son, and Holy Ghost, and studiously avoid using the name of Jesus in their so-called prayers.  Silently (and here intentionally) to omit a confession of the Savior is to deny Him, and be classed as heathen.  (Matt. 18, 17.)  And Christ explicitly teaches that He is the Way, the Life, and the Truth, and that no man cometh unto the Father but by Him.  (John 14, 6.)
 
@@ -134,7 +134,7 @@ John 12, 48:  "He that rejecteth Me, and receiveth not My words, hath one that j
 
 John 10, 35:  "The Scripture cannot be broken."
 
-\textsc{The Apocryphal Books.} -- Some editions of the Bible contain a number of books called Apocrypha (hidden).  The name implies that the authors are unknown, and their writings of doubtful value.
+\textsc{The Apocryphal Books.} -- Some editions of the Bible contain a number of books called Apocrypha\index{Apocryphal Books} (hidden).  The name implies that the authors are unknown, and their writings of doubtful value.
 
 The Apocrypha of the Old Testament comprise some fourteen books and those of the New Testament about twenty-five.  The latter have never appeared in any Protestant Bible.
 
@@ -295,7 +295,7 @@ Rom. 8, 3. 4:  "For what the Law could not do, in that it was weak through the f
 \textsc{Error.}
 \end{center}
 
-The _Moravians_ (Brethren) and _Methodists_ speak in their catechisms, under this head, of Christ, only as a _type_, or _example_.  "How is the life of Christ on earth to be considered?  His life on earth was perfectly holy, and is therefore an example for us to follow."  (_Mor. Cat._, Qu. 48.) -- "What does the life of Christ represent?  A prototype of perfect goodness and holiness." -- _Meth. Cat._, No. 3, p. 23.
+The _Moravians_ (Brethren\index{Brethren}) and _Methodists_ speak in their catechisms, under this head, of Christ, only as a _type_, or _example_.  "How is the life of Christ on earth to be considered?  His life on earth was perfectly holy, and is therefore an example for us to follow."  (_Mor. Cat._, Qu. 48.) -- "What does the life of Christ represent?  A prototype of perfect goodness and holiness." -- _Meth. Cat._, No. 3, p. 23.
 
 \textsc{Note.--} Present-day Christianity, among the sects and enthusiasts, is all of this variety.  "Be good," "Follow in His steps," are slogans heard on every hand.  Forsooth, true Christians also strive to be good, and to follow in the footprints of the Savior.  But these things do not _make_, but only _adorn_ a Christian.  We are saved, not by following "in His steps," but by accepting His redemption.
 
@@ -334,7 +334,7 @@ Luke 2, 10:  "I bring you good tidings of great joy, which shall be to _all peop
 \textsc{Error.}
 \end{center}
 
-_Presbyterians, Congregationalists_, and _Calvinistic Baptists_ state in their confessions that Christ has redeemed the elect _only_.  In the _Westminster Confession_ we read:  "As God hath appointed the elect unto glory, He, by the eternal and most free purpose of His will, foreordained all the means thereunto.... _Neither are any other redeemed by Christ, effectually called_, justified adopted, sanctified, and saved, but the elect only." -- (III, § 6.)  And again:  "The Lord Jesus, by His perfect obedience and sacrifice of Himself, ... hath fully satisfied the justice of His Father, and purchased not only reconciliation, but an everlasting inheritance in the kingdom of heaven, _for all those whom the Father hath given unto Him_" (_i. e._, for the elect _only_).--_Westm. Conf._, VIII, 5.  (See also _Savoy Declaration_ and _Bapt. Conf_. of 1688.)
+_Presbyterians, Congregationalists_, and _Calvinistic Baptists\index{Baptists}_ state in their confessions that Christ has redeemed the elect _only_.  In the _Westminster Confession_ we read:  "As God hath appointed the elect unto glory, He, by the eternal and most free purpose of His will, foreordained all the means thereunto.... _Neither are any other redeemed by Christ, effectually called_, justified adopted, sanctified, and saved, but the elect only." -- (III, § 6.)  And again:  "The Lord Jesus, by His perfect obedience and sacrifice of Himself, ... hath fully satisfied the justice of His Father, and purchased not only reconciliation, but an everlasting inheritance in the kingdom of heaven, _for all those whom the Father hath given unto Him_" (_i. e._, for the elect _only_).--_Westm. Conf._, VIII, 5.  (See also _Savoy Declaration_ and _Bapt. Conf_. of 1688.)
 
 \begin{center}
 \textsl{But God says:--}
@@ -450,7 +450,7 @@ Eph. 1, 3-6:  "Blessed be the God and Father of our Lord Jesus Christ, who hath 
 
 2. The _Reformed Church_, specially so called, expresses its belief thus:  "If we are not to be ashamed of the Gospel, we must confess what it clearly teaches, that God, according to His eternal pleasure and moved by no other cause, has ordained some unto salvation, whereas others were rejected." -- _Cons. Genev._, 224.
 
-3. _Congregationalists_ and _Baptists_, in their respective confessions, agree with the _Presbyterians_ when the latter say:  "By the decree of God, for the manifestation of His glory, some men and angels are predestined unto everlasting life, and others foreordained to everlasting death." -- _Westm. Conf._, III, 3, 7.
+3. _Congregationalists_ and _Baptists\index{Baptists}_, in their respective confessions, agree with the _Presbyterians_ when the latter say:  "By the decree of God, for the manifestation of His glory, some men and angels are predestined unto everlasting life, and others foreordained to everlasting death." -- _Westm. Conf._, III, 3, 7.
 
 \textsc{Note.} -- In 1887 and 1903, the Presbyterian Church (North) added two chapters to their confession (34, 35) and also appended a _Declaratory Statement_ concerning predestination.  According to this "Statement," Chapter III is to be understood as _not_ teaching foreordination to death; and Chapter X, 3, that no children dying in infancy are lost.  But as long as the confession is still in force, -- and all did not vote for the "Statement," -- the situation is practically unchanged.
 
@@ -499,7 +499,7 @@ Rom. 3, 24:  "Being justified freely by His grace through the recemption that is
 
 \textsc{Note.} -- It was on account of this grand confusion of "infusion," "sanctification," "feeling," and "inclination" that Luther could find no "joy in the divine Law" nor peace in the Catholic Church.  This came to him only after learning the meaning of Paul's words:  "Justified by faith, we have peace with God through our Lord Jesus Christ."  (Rom. 5, 1.)
 
-2.  To receive salvation through grace alone is repugnant to self-seeking, guilt-feeling human nature.  Hence not only the pope, but many others have invented schemes of salvation which also include more or less of human efforts.  As representatives of these may be mentioned the _Arminians_.  Their celebrated teacher Limborch writes:  "Be it known that we, when we state that we are justified through faith, do not exclude works, but rather include them." -- _Chr. Theol._, VI, 4, 22.
+2.  To receive salvation through grace alone is repugnant to self-seeking, guilt-feeling human nature.  Hence not only the pope, but many others have invented schemes of salvation which also include more or less of human efforts.  As representatives of these may be mentioned the _Arminians\index{Arminians}_.  Their celebrated teacher Limborch writes:  "Be it known that we, when we state that we are justified through faith, do not exclude works, but rather include them." -- _Chr. Theol._, VI, 4, 22.
 
 The _Quakers_, representing more nearly our every-day, mushroom religious reformers, teach "that we cannot, as some Protestants unwisely have done, exclude good works from justification.  They are absolutely necessary, forsooth, not as a case on account of which we are justified, but as something _in_ which we are justified, and without which we cannot be justified." -- _Barclay_, _Apol._, 7, 3. 4.
 
@@ -856,7 +856,7 @@ Phil. 1, 15-18:  "Some, indeed, preach Christ even of envy and strife, and some 
 \textsc{Note. 2. --} The reading of the Bible among the lay people of the Protestant Church is not only permitted, but urgently recommended.  in the Catholic Church, however, lay people must have a "permit" before they can get a Bible, and then only the Catholic version, or edition, which has several incorrectly translated passages (favorable to Rome, and hence never righted) and numerous explanatory notes (also favorable to Rome).  Catholic laymen are never allowed to read or own a Protestant Bible.  Hence we to this day hear of Bibles being burned by Catholic priests.
 
 \begin{center}
-\textbf{Baptism.}
+\textbf{Baptism\index{Baptism}.}
 
 \textsl{1.  What Is Baptism?}
 
@@ -897,7 +897,7 @@ Acts 22, 16.  On reciting at Jerusalem the story of his conversion, Paul also re
 
 With the Word of God in this doctrine the Lutheran Church stands alone.  _All the others_ follow blind reason, and _declare that Baptism does not effect regeneration, but is only a sign of regeneration, or the new birth_.
 
-_Episcopalians\index{Episcopal Church}_, _Presbyterians_, _Baptists_, _Congregationalists_, and _Methodists_ differ in their confessions about Baptism in language only.  The Presbyterian may be taken as a model:  "Baptism is a Sacrament of the New Testament, ordained by Jesus Christ, not only for the solemn admission of the party baptized into the visible Church, but also to be unto him a _sign and a seal_ of the covenant of grace, of his ingrafting into Christ, of regeneration, of remission of sins, and of his giving up unto God, through Jesus Christ, to walk in newness of life:  which Sacrament is, by Christ's own appointment, to be continued in His Church until the end of the world."  (XXVIII.)
+_Episcopalians\index{Episcopal Church}_, _Presbyterians_, _Baptists\index{Baptists}_, _Congregationalists_, and _Methodists_ differ in their confessions about Baptism in language only.  The Presbyterian may be taken as a model:  "Baptism is a Sacrament of the New Testament, ordained by Jesus Christ, not only for the solemn admission of the party baptized into the visible Church, but also to be unto him a _sign and a seal_ of the covenant of grace, of his ingrafting into Christ, of regeneration, of remission of sins, and of his giving up unto God, through Jesus Christ, to walk in newness of life:  which Sacrament is, by Christ's own appointment, to be continued in His Church until the end of the world."  (XXVIII.)
 
 \begin{center}
 \textsl{But God says:--}
@@ -937,7 +937,7 @@ Acts 16, 32. 33:  The jailer at Philippi, when converted, was baptized, "_and al
 \textsc{Error.}
 \end{center}
 
-The chief offenders against the truth in the doctrine of Baptism are the so-called _Baptists_.  In their confession of 1688 they declare that _only_ such are to be baptized as can be truly penitent before God, confess their faith in Christ Jesus, and show their obedience towards Him.  (XZXIX, 2.)  This, they argue, children cannot do, hence they are not to be baptized.
+The chief offenders against the truth in the doctrine of Baptism are the so-called _Baptists\index{Baptists}_.  In their confession of 1688 they declare that _only_ such are to be baptized as can be truly penitent before God, confess their faith in Christ Jesus, and show their obedience towards Him.  (XZXIX, 2.)  This, they argue, children cannot do, hence they are not to be baptized.
 
 \textsc{Note. --} The doctrine of Baptism has been variously assailed, from the days of the early Church down to the present time.  That Baptism was unnecessary, especially for children, and that only grown persons could have any benefit from it, were early heresies.  Many delayed being baptized until they were on their deathbed, while others repeated the rite several times.  Especially the practice of infant baptism has been assailed by various sects, and is condemned as unscrpitural and unnecessary by some to the present day.
 
@@ -1083,11 +1083,11 @@ In his _Reckoning of Faith_ (presented at Augsburg, 1530) this is his standpoint
 
 3.  _The Heidelberg Catechism_ (by Ursinus and Olevianus, 1563) is the mother confession of all later Reformed confessions.  Of the Eucharist it says:  "The Lord's Supper is a distributing and receiving of bread and wine commanded of Christ unto the faithful, that by _these signs_ He might testify that He has delivered and yielded His body unto death, and has shed His blood for them, and does give them these things to eat and drink, that they might be unto them the meat and drink of eternal life, and that thereby also He might testify that He would dwell in them, nourish and quicken them forever."  (Quest. 75, Ursin's _Explication_; Henry Parry's translation.) -- Again:  "To eat is to believe, to receive remission of sin by faith, to be united to Christ, to be made partakers of the life of Christ."  (Qu. 76.)  Again:  "The literal sense, if it be properly taken, can be _no other wise_ understood than thus:  The substance of this bread is the substance of My body.  But so to understand it is an _undoubted absurdity_."  (Qu. 77.)
 
-4.  _The Book of Common Prayer (Episcopal)\index{Episcopal Church}_ says in "a catechism...to be learned...before confirmation":  "Why was the Sacrament of the Lord's Supper ordained?  _Ans._:  For the continual remembrance of the sacrifice of the death of Christ, and of the benefits which we receive thereby.  What is the inward part, or thing signified?  _Ans._:  The body and blood fo Christ, which are _spiritually taken and received_ by the faithful in the Lord's Supper."  (p. 228.) -- In the Episcopal _Articles of Religion_, Art. XXVIII speaks in the first part of "partaking of the body and blood of Christ," but concludes by stating that "The body of Christ is given, taken, and eaten, in the Supper, only after _an heavenly and spiritual manner_.  And the means whereby the body of Christ is received and eaten in the Supper is faith."  (Reformed Episcopals the same in substance.)
+4.  _The Book of Common Prayer\index{Book of Common Prayer} (Episcopal)\index{Episcopal Church}_ says in "a catechism...to be learned...before confirmation":  "Why was the Sacrament of the Lord's Supper ordained?  _Ans._:  For the continual remembrance of the sacrifice of the death of Christ, and of the benefits which we receive thereby.  What is the inward part, or thing signified?  _Ans._:  The body and blood fo Christ, which are _spiritually taken and received_ by the faithful in the Lord's Supper."  (p. 228.) -- In the Episcopal _Articles of Religion_, Art. XXVIII speaks in the first part of "partaking of the body and blood of Christ," but concludes by stating that "The body of Christ is given, taken, and eaten, in the Supper, only after _an heavenly and spiritual manner_.  And the means whereby the body of Christ is received and eaten in the Supper is faith."  (Reformed Episcopals the same in substance.)
 
 5.  The _Presbyterians_ say:  "Worthy receivers, outwardly partaking of the visible elements in this Sacrament, do then also inwardly by faith, really and indeed, yet not carnally and corporally, but spiritually, receive and feed upon Christ crucified, and all benefits of His death:  the body and blood of Christ being there not corporally or carnally in, with, or under the bread and wine; yet as really, but spiritually, present to the faith of believers in that ordinance, as the elements themselves are to their outward senses." -- _Westm. Conf._, Art. XXIX, 7.
 
-6.  The _Methodist Episcopal Church_ in its _Articles of Religion_, Art. XVIII, is one with the Episcopalians.  The _Baptist_ and _Congregationalist_ position is that of the _Westminster Confession_.  
+6.  The _Methodist Episcopal Church_ in its _Articles of Religion_, Art. XVIII, is one with the Episcopalians.  The _Baptist\index{Baptists}_ and _Congregationalist_ position is that of the _Westminster Confession_.  
 
 \begin{center}
 \textsl{But God says:--}
@@ -1125,7 +1125,7 @@ Matt. 26, 28:  "For this is My blood of the New Testament, which is shed for man
 \textsc{Error.}
 \end{center}
 
-1.  As the _Reformed Churches_ deny the real presence in the Lord's Supper, so they also deny the real benefit thereof.  But this makes it a Sacrament in name only.  _Presbyterians_, _Congregationalists_, and _Baptists_ unite in confessing that "The Lord Jesus instituted the Sacrament of His body and blood...for the perpetual _remembrance_ of the sacrifice of Himself in His death," etc. -- _Westm. Conf._, XXIX, 1.
+1.  As the _Reformed Churches_ deny the real presence in the Lord's Supper, so they also deny the real benefit thereof.  But this makes it a Sacrament in name only.  _Presbyterians_, _Congregationalists_, and _Baptists\index{Baptists}_ unite in confessing that "The Lord Jesus instituted the Sacrament of His body and blood...for the perpetual _remembrance_ of the sacrifice of Himself in His death," etc. -- _Westm. Conf._, XXIX, 1.
 
 2.  The _Methodists_ speak ambiguously in their _Articles of Religion_ of the Lord's Supper.  (Cf. XVI and XVIII.  And what is memant by the following declaration:  "The Supper of the Lord...is a Sacrament of our redemption by Christ's death"?)  But they are unmistakably Reformed in practise and public teaching.  Dr. W. Nast has the following in his _Smaller German Catechism_:  "What does the Lord's Supper signify?  It is to the believer a _memorial feast_ of Christ's atoning passion and death and a _token_ of his participation in the benefits of Christ."  
 
