@@ -823,13 +823,13 @@ Matt. 23, 2. 3:  "The scribes and the PHarisees sit in Moses' seat.  All, theref
 \textsl{Lutheran Testimony.}
 \end{center}
 
-"Though the Church be properly the congregation of saints and true believers, yet, seeing that in this life many hypocrites and evil persons are mingled with it, it is lawful to use the Sacraments administered by evil men, according to the voice of Christ:  'The scribes and the Pharisees sit in Moses' seat,' and the words following.  And the Sacraments of the Word are effectual by reason of the institution and commandment of Christ, though they be delivered by evil men.  They condemn the Donatists and such like, who denied that it was lawful to use the ministry of evil men in the Church and held that the ministry of evil men is useless and without effect." -- _Aubsb. Conf._, VIII
+"Though the Church be properly the congregation of saints and true believers, yet, seeing that in this life many hypocrites and evil persons are mingled with it, it is lawful to use the Sacraments administered by evil men, according to the voice of Christ:  'The scribes and the Pharisees sit in Moses' seat,' and the words following.  And the Sacraments of the Word are effectual by reason of the institution and commandment of Christ, though they be delivered by evil men.  They condemn the Donatists\index{Donatists} and such like, who denied that it was lawful to use the ministry of evil men in the Church and held that the ministry of evil men is useless and without effect." -- _Aubsb. Conf._, VIII
 
 \begin{center}
 \textsc{Error.}
 \end{center}
 
-The _Donatists_, like the Pharisees, are an ever-present race.  And they are not confined to any particular denomination.  Churches of the _Methodistic_ order suffer most, but all have their share, even the Lutheran Church.  The usual charge is that the poor state of the Church, as well as society, must be charged to the account of the unconverted clergy; for "if ministers spake from the heart, their message would go to the heart."
+The _Donatists_\index{Donatists}, like the Pharisees, are an ever-present race.  And they are not confined to any particular denomination.  Churches of the _Methodistic_ order suffer most, but all have their share, even the Lutheran Church.  The usual charge is that the poor state of the Church, as well as society, must be charged to the account of the unconverted clergy; for "if ministers spake from the heart, their message would go to the heart."
 
 But history and experience tell a different story, as the following shows.
 
@@ -1163,7 +1163,7 @@ _Answer._ -- Christ's body participates in the attributes of the divine nature. 
 
 When the Lutheran Church uses unleavened wafers at Communion, it does so because they are convenient to distribute, and because the bread used by Christ was unleavened.  In like manner it also uses _grape-wine_, not -juice, nor a juice of some other fruit, or merely water, as some temperance fanatics prescribe, because this was the wine of the Passover, and because Christ explicitly mentions "the fruit of the vine" (Matt. 26, 29) as the proper element.  
 
-## After Death
+## After Death\index{Death, Life after}
 \begin{center}
 \textsc{Bible Doctrine.}
 \end{center}
