@@ -1,6 +1,6 @@
 # PART II.  Doctrines of the Church {.unnumbered}
 
-## Concerning the Truth of the Christian Religion
+## Concerning the Truth\index{Christian Religion, Truth of} of the Christian Religion
 \begin{center}
 \textsc{Bible Doctrine.}
 \end{center}
@@ -112,7 +112,7 @@ Heb. 1, 1. 2:  "God, who at sundry times and in diverse manners spake in time pa
 
 1 Pet. 1, 16:  "For we have _not followed cunningly devised fables_ when we made known unto you the power and coming of our Lord Jesus Christ, but were eye-witnesses of His majesty."
 
-2.  The so-called higher critics fain would find all kinds of flaws and faults in the Bible:  Creation is a myth; the patriarchs never lived, at least not at the time states; Moses, and most of the other authors, never wrote the books ascribed to them; the contents are unreliable; the so-called prophecies are post-event descriptions, etc., etc.
+2.  The so-called higher critics\index{Critics, Higher} fain would find all kinds of flaws and faults in the Bible:  Creation is a myth; the patriarchs never lived, at least not at the time states; Moses, and most of the other authors, never wrote the books ascribed to them; the contents are unreliable; the so-called prophecies are post-event descriptions, etc., etc.
 
 \begin{center}
 \textsl{But God says:--}
@@ -334,7 +334,7 @@ Luke 2, 10:  "I bring you good tidings of great joy, which shall be to _all peop
 \textsc{Error.}
 \end{center}
 
-_Presbyterians, Congregationalists_, and _Calvinistic Baptists\index{Baptists}_ state in their confessions that Christ has redeemed the elect _only_.  In the _Westminster Confession_ we read:  "As God hath appointed the elect unto glory, He, by the eternal and most free purpose of His will, foreordained all the means thereunto.... _Neither are any other redeemed by Christ, effectually called_, justified adopted, sanctified, and saved, but the elect only." -- (III, § 6.)  And again:  "The Lord Jesus, by His perfect obedience and sacrifice of Himself, ... hath fully satisfied the justice of His Father, and purchased not only reconciliation, but an everlasting inheritance in the kingdom of heaven, _for all those whom the Father hath given unto Him_" (_i. e._, for the elect _only_).--_Westm. Conf._, VIII, 5.  (See also _Savoy Declaration_ and _Bapt. Conf_. of 1688.)
+_Presbyterians, Congregationalists\index{Congregationalists}_, and _Calvinistic Baptists\index{Baptists}_ state in their confessions that Christ has redeemed the elect _only_.  In the _Westminster Confession_ we read:  "As God hath appointed the elect unto glory, He, by the eternal and most free purpose of His will, foreordained all the means thereunto.... _Neither are any other redeemed by Christ, effectually called_, justified adopted, sanctified, and saved, but the elect only." -- (III, § 6.)  And again:  "The Lord Jesus, by His perfect obedience and sacrifice of Himself, ... hath fully satisfied the justice of His Father, and purchased not only reconciliation, but an everlasting inheritance in the kingdom of heaven, _for all those whom the Father hath given unto Him_" (_i. e._, for the elect _only_).--_Westm. Conf._, VIII, 5.  (See also _Savoy Declaration_ and _Bapt. Conf_. of 1688.)
 
 \begin{center}
 \textsl{But God says:--}
@@ -350,7 +350,7 @@ Matt. 18, 11:  "The Son of Man is come to save _that which was lost_."
 
 2 Pet. 2, 1:  "Denying the Lord that brought them, and bring upon themselves swift destruction."  (Christ died also for those who by reason of their unbelief are finally lost.)
 
-## Conversion
+## Conversion\index{Conversion}
 \begin{center}
 \textsc{Bible Doctrine.}
 \end{center}
@@ -450,7 +450,7 @@ Eph. 1, 3-6:  "Blessed be the God and Father of our Lord Jesus Christ, who hath 
 
 2. The _Reformed Church_, specially so called, expresses its belief thus:  "If we are not to be ashamed of the Gospel, we must confess what it clearly teaches, that God, according to His eternal pleasure and moved by no other cause, has ordained some unto salvation, whereas others were rejected." -- _Cons. Genev._, 224.
 
-3. _Congregationalists_ and _Baptists\index{Baptists}_, in their respective confessions, agree with the _Presbyterians_ when the latter say:  "By the decree of God, for the manifestation of His glory, some men and angels are predestined unto everlasting life, and others foreordained to everlasting death." -- _Westm. Conf._, III, 3, 7.
+3. _Congregationalists\index{Congregationalists}_ and _Baptists\index{Baptists}_, in their respective confessions, agree with the _Presbyterians_ when the latter say:  "By the decree of God, for the manifestation of His glory, some men and angels are predestined unto everlasting life, and others foreordained to everlasting death." -- _Westm. Conf._, III, 3, 7.
 
 \textsc{Note.} -- In 1887 and 1903, the Presbyterian Church (North) added two chapters to their confession (34, 35) and also appended a _Declaratory Statement_ concerning predestination.  According to this "Statement," Chapter III is to be understood as _not_ teaching foreordination to death; and Chapter X, 3, that no children dying in infancy are lost.  But as long as the confession is still in force, -- and all did not vote for the "Statement," -- the situation is practically unchanged.
 
@@ -791,7 +791,7 @@ Rom. 1, 16:  "The Gospel of Christ is a power of God unto salvation to every one
 
 3.  The _Episcopal\index{Episcopal Church} Church_ teaches that "Sacraments ordained of Christ be not only badges or tokens of Christian men's profession, but rather they be certain sure witnesses, and effectual _signs of grace_, and GOd's good will towards us, by which He doth work invisibly in us, and doth not only quicken, but also strengthen and confirm, our faith in Him."  (_Art. of Rel._, XXV.)  The _Reformed Episocopal\index{Episcopal Church} Church_ expressly states that it wants the word "Sacrament to mean only a symbol or sign instituted by God."  (Art. 25.)
 
-4.  _Presbyterians_ and _Congregationalists_ confess:  "Sacraments are holy _signs_ and seals of the covenant of grace, immediately instituted by God, to represent Christ and His benefits, and to confirm our interest in Him, as also to put a visible difference between those that belong unto the Church and the rest of the world, and solemnly to engage them to the service of God in Christ, according to His Word." -- Chap. XXVII, 1.  _Savoy Decl._, chap. XXVIII.
+4.  _Presbyterians_ and _Congregationalists\index{Congregationalists}_ confess:  "Sacraments are holy _signs_ and seals of the covenant of grace, immediately instituted by God, to represent Christ and His benefits, and to confirm our interest in Him, as also to put a visible difference between those that belong unto the Church and the rest of the world, and solemnly to engage them to the service of God in Christ, according to His Word." -- Chap. XXVII, 1.  _Savoy Decl._, chap. XXVIII.
 
 \textsc{Note. --} The Lutheran Church also calls the Sacraments "signs," but _not only_ that.  Primarily they are _means_ through which God gives His grace.  The Word of God as a whole is such an effective means; why, then, should not the words of institution in the Sacraments be so?
 
@@ -897,7 +897,7 @@ Acts 22, 16.  On reciting at Jerusalem the story of his conversion, Paul also re
 
 With the Word of God in this doctrine the Lutheran Church stands alone.  _All the others_ follow blind reason, and _declare that Baptism does not effect regeneration, but is only a sign of regeneration, or the new birth_.
 
-_Episcopalians\index{Episcopal Church}_, _Presbyterians_, _Baptists\index{Baptists}_, _Congregationalists_, and _Methodists_ differ in their confessions about Baptism in language only.  The Presbyterian may be taken as a model:  "Baptism is a Sacrament of the New Testament, ordained by Jesus Christ, not only for the solemn admission of the party baptized into the visible Church, but also to be unto him a _sign and a seal_ of the covenant of grace, of his ingrafting into Christ, of regeneration, of remission of sins, and of his giving up unto God, through Jesus Christ, to walk in newness of life:  which Sacrament is, by Christ's own appointment, to be continued in His Church until the end of the world."  (XXVIII.)
+_Episcopalians\index{Episcopal Church}_, _Presbyterians_, _Baptists\index{Baptists}_, _Congregationalists\index{Congregationalists}_, and _Methodists_ differ in their confessions about Baptism in language only.  The Presbyterian may be taken as a model:  "Baptism is a Sacrament of the New Testament, ordained by Jesus Christ, not only for the solemn admission of the party baptized into the visible Church, but also to be unto him a _sign and a seal_ of the covenant of grace, of his ingrafting into Christ, of regeneration, of remission of sins, and of his giving up unto God, through Jesus Christ, to walk in newness of life:  which Sacrament is, by Christ's own appointment, to be continued in His Church until the end of the world."  (XXVIII.)
 
 \begin{center}
 \textsl{But God says:--}
@@ -1087,7 +1087,7 @@ In his _Reckoning of Faith_ (presented at Augsburg, 1530) this is his standpoint
 
 5.  The _Presbyterians_ say:  "Worthy receivers, outwardly partaking of the visible elements in this Sacrament, do then also inwardly by faith, really and indeed, yet not carnally and corporally, but spiritually, receive and feed upon Christ crucified, and all benefits of His death:  the body and blood of Christ being there not corporally or carnally in, with, or under the bread and wine; yet as really, but spiritually, present to the faith of believers in that ordinance, as the elements themselves are to their outward senses." -- _Westm. Conf._, Art. XXIX, 7.
 
-6.  The _Methodist Episcopal Church_ in its _Articles of Religion_, Art. XVIII, is one with the Episcopalians.  The _Baptist\index{Baptists}_ and _Congregationalist_ position is that of the _Westminster Confession_.  
+6.  The _Methodist Episcopal Church_ in its _Articles of Religion_, Art. XVIII, is one with the Episcopalians.  The _Baptist\index{Baptists}_ and _Congregationalist\index{Congregationalists}_ position is that of the _Westminster Confession_.  
 
 \begin{center}
 \textsl{But God says:--}
@@ -1125,7 +1125,7 @@ Matt. 26, 28:  "For this is My blood of the New Testament, which is shed for man
 \textsc{Error.}
 \end{center}
 
-1.  As the _Reformed Churches_ deny the real presence in the Lord's Supper, so they also deny the real benefit thereof.  But this makes it a Sacrament in name only.  _Presbyterians_, _Congregationalists_, and _Baptists\index{Baptists}_ unite in confessing that "The Lord Jesus instituted the Sacrament of His body and blood...for the perpetual _remembrance_ of the sacrifice of Himself in His death," etc. -- _Westm. Conf._, XXIX, 1.
+1.  As the _Reformed Churches_ deny the real presence in the Lord's Supper, so they also deny the real benefit thereof.  But this makes it a Sacrament in name only.  _Presbyterians_, _Congregationalists\index{Congregationalists}_, and _Baptists\index{Baptists}_ unite in confessing that "The Lord Jesus instituted the Sacrament of His body and blood...for the perpetual _remembrance_ of the sacrifice of Himself in His death," etc. -- _Westm. Conf._, XXIX, 1.
 
 2.  The _Methodists_ speak ambiguously in their _Articles of Religion_ of the Lord's Supper.  (Cf. XVI and XVIII.  And what is memant by the following declaration:  "The Supper of the Lord...is a Sacrament of our redemption by Christ's death"?)  But they are unmistakably Reformed in practise and public teaching.  Dr. W. Nast has the following in his _Smaller German Catechism_:  "What does the Lord's Supper signify?  It is to the believer a _memorial feast_ of Christ's atoning passion and death and a _token_ of his participation in the benefits of Christ."  
 
@@ -1135,7 +1135,7 @@ Like Popery itself, the present doctrine of the Lord's Supper in the Catholic Ch
 
 These abuses were soon discarded by the Reformers (_Augsb. Conf._, XXIV) but not all reverted to apostolic practise.  Zwingli and Calvin\index{Calvin} differ somewhat in their definitions of the Sacrament of the Altar, but _agree_ in denying the real presence.  And their _chief_ reason for doing so is the rationalistic argument:  human reason cannot understand the real presence of Christ's body and blood in the Sacrament.
 
-\textsc{Note 2. --} Reformed writers on the Lord's Supper generally call the Lutheran doctrine of the real presence "consubstantiation."  This term means, "of the same substance," _viz._, that in the Sacrament the bread and the body of Christ form one substance.  Those who apply the term "consubstantiation" to the Lutheran doctrine of the Lord's Supper misprepresent our position.  We do not teach that the bread and the body of Christ, or the wine and His blood, form one substance, but that in, with, and under the bread we receive, not in a natural, but supernatural (sacramental) manner, the true body of Christ, and with the wine His true blood.  This is the plain doctrine of Scripture, though too deep for human reason to fathom.
+\textsc{Note 2. --} Reformed writers on the Lord's Supper generally call the Lutheran doctrine of the real presence "consubstantiation\index{Consubstantiation}."  This term means, "of the same substance," _viz._, that in the Sacrament the bread and the body of Christ form one substance.  Those who apply the term "consubstantiation" to the Lutheran doctrine of the Lord's Supper misprepresent our position.  We do not teach that the bread and the body of Christ, or the wine and His blood, form one substance, but that in, with, and under the bread we receive, not in a natural, but supernatural (sacramental) manner, the true body of Christ, and with the wine His true blood.  This is the plain doctrine of Scripture, though too deep for human reason to fathom.
 
 \begin{center}
 \textsc{A Few Objections Answered.}
