@@ -146,7 +146,7 @@ In 1546, the Catholic Church\index{Catholic Church!zzzzz@\igobble|seealso{Roman 
 \textsc{Bible Doctrine.}
 \end{center}
 
-The contents of the Bible were revealed to the sacred writers by inspiration of the Holy Spirit
+The contents of the Bible were revealed to the sacred writers by inspiration\index{Inspiration of Scriptures} of the Holy Spirit
 
 2 Tim. 3, 16:  "All Scripture is given _by inspiration of God_, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness."
 
@@ -162,7 +162,7 @@ The contents of the Bible were revealed to the sacred writers by inspiration of 
 \textsc{Error.}
 \end{center}
 
-The great majority of modern exegetes, especially the so-called higher critics, maintain that "science" forbids the acceptance of an inspiration different from that of a Shakespeare or a Milton.  And even if the different authors were under the influence of a higher power, they were children of their times, and hence their opinions were biased, and they were subject to errors in judgment, etc.
+The great majority of modern exegetes, especially the so-called higher critics, maintain that "science" forbids the acceptance of an inspiration\index{Inspiration of Scriptures} different from that of a Shakespeare or a Milton.  And even if the different authors were under the influence of a higher power, they were children of their times, and hence their opinions were biased, and they were subject to errors in judgment, etc.
 
 \begin{center}
 \textsl{But God says:--}
@@ -178,7 +178,7 @@ Matt. 10, 20:  "For it is not ye that speak, but the Spirit of your Father which
 
 Gal. 1, 20:  "Now the things which I write unto you, behold before God, I lie not."  (1, 8. 9.)
 
-\textsc{Note.} -- A great many theologians at the present time have given up the belief in verbal inspiration, and contend that God only gave the authors an "impulse" to write, and what to write about, or, at best, that the "concept," or "idea," was inspired.  But this, together with the assertion that the different authors have been mistaken in several things, is simply destroying the foundation of all faith and hope.  If God has not told us in explicit words what His will is, the hope of the Christian is no better than that of a Rationalist.
+\textsc{Note.} -- A great many theologians at the present time have given up the belief in verbal inspiration\index{Inspiration of Scriptures}, and contend that God only gave the authors an "impulse" to write, and what to write about, or, at best, that the "concept," or "idea," was inspired.  But this, together with the assertion that the different authors have been mistaken in several things, is simply destroying the foundation of all faith and hope.  If God has not told us in explicit words what His will is, the hope of the Christian is no better than that of a Rationalist.
 
 But a few passages from Scripture will show how the Bible stands on the question.
 
@@ -468,7 +468,7 @@ Titus 2, 11:  "For the grace of God that bringeth salvation hath appeared to _al
 
 On an other phase of this mysterious question we will let _Dr. Martin Chemintz_ speak.  He was not only the author of the Eleventh Article in the _Formula of Concord_, but, at the time of its composition, superintendant of the churches of Braunschweig.  In his _Enchiridion_, a work written especially for the instructino of the clergy in his diocese, he puts the following question:  "Does God make such election first after a time, as when men have become penitent and believers, or is it made on account of their piety which God foresees?"  _Answer_:  "St. Paul says in Eph. 1, 4:  'He hath chosen us in Christ before the foundation of the world'; and in 2 Tim. 1, 9:  'He hath saved us, and called us with an holy calling, not according to our works, but according to His own purpose and grace, which was given us in Christ Jesus before the world began.'  Hence, the electino of God does not follow after our faith and righteousness, but goes before them, as a cause of it all.  Moreover, whom He did predestinate, them He also called; and whom He called, them He also justified, Rom. 8, 30.  And in Eph. 1, 4, Paul does not say that we were elected because we _were_ holy or had _become_ holy, but He says:  He hath chosen us that we should _be_ holy.  For predestination is a cause of everything pertaining to salvation, as Paul says:  'We have obtained an inheritance, being predestinated according to the purpose of Him who workth all things after the counsel fo His own will, that we should be to the praise of His glory, who first trusted in Christ.' (Eph. 1, 11. 12.)  And this election is not made in view of our present or future deeds, but according to His own purpose and grace. (Rom. 9; 2 Tim. 1.)"
 
-## Justification
+## Justification\index{Justification by Faith}
 \begin{center}
 \textsc{Bible Doctrine.}
 \end{center}
