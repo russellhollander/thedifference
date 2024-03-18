@@ -57,7 +57,7 @@ Rom. 1, 19:  "even the heathen acknowledge the existence of God.
 
 _What Is an Atheist?\index{Atheists}_ -- A snare to the simple-minded Christian is the oft repeated assertion that so and so was no atheist, because he had confessed his belief in a personal God or, perhaps, in "a Higher Power."  It is true, the words of the Psalmist (14, 1), "The fool saith in his heart, There is no God," describe more nearly the person called "atheist."  But all who do not confess the true God are properly to be classed as having no God at all.  Christ says:  "He that honoreth not the Son honoreth not the Father."  (John 5, 23.)  "Whosoever shall deny Me before men, him will I also deny before My Father which is in heaven."  (Matt. 10, 33.)  And the Holy Spirit testifies:  "Whosoever denieth the Son, the same hath not the Father."  (1 John 2, 23.  Compare also 2 John, v. 9.)
 
-_Lodge Religion_. -- Under this head must be ranged all lodges which require a "belief in a Supreme Being" from their members, but who do not define this "Being" as the Triune God, Father, Son, and Holy Ghost, and studiously avoid using the name of Jesus in their so-called prayers.  Silently (and here intentionally) to omit a confession of the Savior is to deny Him, and be classed as heathen.  (Matt. 18, 17.)  And Christ explicitly teaches that He is the Way, the Life, and the Truth, and that no man cometh unto the Father but by Him.  (John 14, 6.)
+_Lodge Religion\index{Lodge Religion}_. -- Under this head must be ranged all lodges which require a "belief in a Supreme Being" from their members, but who do not define this "Being" as the Triune God, Father, Son, and Holy Ghost, and studiously avoid using the name of Jesus in their so-called prayers.  Silently (and here intentionally) to omit a confession of the Savior is to deny Him, and be classed as heathen.  (Matt. 18, 17.)  And Christ explicitly teaches that He is the Way, the Life, and the Truth, and that no man cometh unto the Father but by Him.  (John 14, 6.)
 
 _Evolution\index{Evolution}_. -- The notion is also prevalent that Christianity, revealed religion, "is subject to the laws of evolution."  Aside from the fact that "the laws of evolution" are only imaginings of depraved human nature, which fain would escape just punishment at the hands of God, "progressive Christianity" is simply an absurdity.  What of a Christianity in which the life, teachings, and deeds of a Christ Jesus, little by little, should be superseded by -- what?  Can you think of a moral law which could supersede the Ten Commandments?  Of a just God more righteous than Jehovah?  more loving than Jesus?  more merciful than He who sent His only-begotten Son as the Savior for the whole world?  more merciful than He who embraces the Prodigal (Luke 15, 20), pardons the adulteress (John 8, 11), promises heaven to the thief on the cross (Luke 29, 43), and prayed even for His enemies?
 
@@ -680,7 +680,7 @@ Prov. 30, 6:  "Add thou not unto His words, lest He reprove thee, and thou be fo
 
 Besides the _Catholics_, with their doctrine of evangelical counsels and consequent superabundant works, the worst errorists in this doctrine are the Romanizing, legalistic, and pietistic _Methodists_.  Who has not heard the claim that traveling on Sunday, indulging in innocent recreation, smoking, as well as every use of liquor, are reprehensible, sinful acts?  (See _Doctrines and Discipline_, chaps. 2. 3.)
 
-Nearly all Reformed sects are prone to legalism, and try to serve GOd through the commandments of men.  (Matt. 15, 9.)
+Nearly all Reformed sects are prone to legalism\index{Legalism}, and try to serve God through the commandments of men.  (Matt. 15, 9.)
 
 \begin{center}
 \textsl{But God says:--}
@@ -1067,7 +1067,7 @@ John 20, 23 (to all the disciples):  "Whosoever sins ye remit, they are remitted
 \textsc{Biblical Lutheran Doctrine.}
 \end{center}
 
-"The Lord's SUpper is the true body and blood of our Lord Jesus Christ, under the bread and wine, given unto us Christians to eat and to drink, as it was instituted by Christ Himself." -- Matt. 26, 26-28; Mark 14, 22-24; Luke 22, 19. 20; 1 Cor. 11, 23-25.
+"The Lord's Supper\index{Lord's Supper} is the true body and blood of our Lord Jesus Christ, under the bread and wine, given unto us Christians to eat and to drink, as it was instituted by Christ Himself." -- Matt. 26, 26-28; Mark 14, 22-24; Luke 22, 19. 20; 1 Cor. 11, 23-25.
 
 The Tenth Article in the _Augsburg Confession_ is substantially the same as the above.  In his _Apology_, Melancthon adds:  "We defend the doctrine received in the entire Church, that in the Lord's Supper the body and blood of Christ are truly and substantially present, and are truly tendered with those things which are seen, bread and wine.  And we speak of the presence of the living Christ, knowing that 'death hath no more dominion over Him.'" -- Art. X.
 
@@ -1202,7 +1202,7 @@ Acts 1, 25:  "Judas by transgression fell that he might go to _his own place_."
 
 2.  Though the representative _Reformed_ Churches stand for retribution in their confessions, the prevailing opinion among their members is that "we get all the hell there is here on earth."  Such as opinion is not even _rationalism_.  The conception of a just God forbids it.  Yet the REformed sects in their preaching and in their literature very generally ignore the Bible-doctrine concerning a state of punishment after death.
 
-Lodgism is to a great extent the cause for disbelief in eternal punishment.  Every lodge-man buried, even a suicide or a profligate Elk, is declared saved, "removed to the Grand Lodge above" or to "the happy hunting-ground" of the Red Man.
+Lodgism\index{Lodge Religion} is to a great extent the cause for disbelief in eternal punishment.  Every lodge-man buried, even a suicide or a profligate Elk, is declared saved, "removed to the Grand Lodge above" or to "the happy hunting-ground" of the Red Man.
 
 \begin{center}
 \textsl{But God says:--}
