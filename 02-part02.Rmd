@@ -23,7 +23,7 @@ John 17, 3:  "And this is life eternal, that they might know Thee the only true 
 
 1.  Carnal mind is in enmity against God.  (Rom. 8, 7.)  Hence man's unwillingness to be governed by Him.  He tries to forgetHim, deny Him; but all to no purpose,-- except, perhaps, for a time.  But the devil is always trying some method whereby he may rob man of the Word of God, so that he shall not believe and be saved.  (Luke 8, 12.)  And one way of accomplishing this is to make him believe that one religion is as good as another, or that Christians "will not be alone about inheriting heaven."
 
-The Swiss reformer Zwingli believed "that all the ancient noble heathens who walked uprightly according to the light they had were also saved."  (_Expos_. _Fidei_, II, 559.)
+The Swiss reformer Zwingli\index{Zwingli} believed "that all the ancient noble heathens who walked uprightly according to the light they had were also saved."  (_Expos_. _Fidei_, II, 559.)
 
 The Quaker\index{Quakers} Barclay, in his _Apology_ (10, 2), voices the same thought as regards heathen, Turks, and Jews at the present time.
 
@@ -75,7 +75,7 @@ Though the theory on which Darwinian evolution rests has been discarded as insuf
 
 5.  The Pithecanthropus Erectus^[The "ape that walked like a man."  The existence of this creature has never been proved.] has for some years (since 1891) been the most popular relic with evolutionists.  The collection consisted of a skull above the eyes, a leg-bone, and two teeth, -- found in Java at separate places.  The age of this "missing link" was guessed by various scientists to be from one hundred thousand to one million years!  According to measurements the skull is that of an idiot.  (See _The Other Side of Evolution_, Alex. Patterson, D. D. Winona Publ. Co., Chicago, 1903.)
 
-## The Holy Scriptures
+## The Holy Scriptures\index{Scripture, the Holy}
 \begin{center}
 \textbf{A.  The Bible Is God's Revelation to Mankind}
 
@@ -138,7 +138,7 @@ John 10, 35:  "The Scripture cannot be broken."
 
 The Apocrypha of the Old Testament comprise some fourteen books and those of the New Testament about twenty-five.  The latter have never appeared in any Protestant Bible.
 
-In 1546, the Catholic Church\index{Catholic Church!zzzzz@\igobble|seealso{Roman Catholic Church}} decreed, through the Council of Trent, that the old Testament apocryphal books were to be included among the canonical (rule-giving) books of the Bible.  This was done in order to gain certain proof-texts for the doctrines of purgatory, prayers for the dead, and for strengthening the position of the pope generally.  However, no council can decree what shall, or shall not, be the Word of God.  The canonicity of the Bible is deduced from a multitude of proofs peculiarly its own.  The following, among many, may suffice here.  1) The declaration of the different writers that God has spoken through them.  2) The loftiness and sublimity of the Bible-text in comparison with that of secular books.  3) The united testimony of the Church concerning both the Old and the New Testament.  4) The repeated references of Christ and the apostles to numberless statements in the canonical books, but silence as to the apocryphal.  5) The sufficiency of the canonical Scriptures as declared by Christ Himself.  (Luke 16, 31; John 5, 39; 10, 35.)
+In 1546, the Catholic\index{Roman Catholic Church} Church\index{Catholic Church!zzzzz@\igobble|seealso{Roman Catholic Church}} decreed, through the Council of Trent, that the old Testament apocryphal books were to be included among the canonical (rule-giving) books of the Bible.  This was done in order to gain certain proof-texts for the doctrines of purgatory, prayers for the dead, and for strengthening the position of the pope generally.  However, no council can decree what shall, or shall not, be the Word of God.  The canonicity of the Bible is deduced from a multitude of proofs peculiarly its own.  The following, among many, may suffice here.  1) The declaration of the different writers that God has spoken through them.  2) The loftiness and sublimity of the Bible-text in comparison with that of secular books.  3) The united testimony of the Church concerning both the Old and the New Testament.  4) The repeated references of Christ and the apostles to numberless statements in the canonical books, but silence as to the apocryphal.  5) The sufficiency of the canonical Scriptures as declared by Christ Himself.  (Luke 16, 31; John 5, 39; 10, 35.)
 
 \begin{center}
 \textbf{B.  The Bible is Given by Inspiration of God.}
@@ -217,7 +217,7 @@ The meaning of the words of Scripture must be sought in the Scriptures themselve
 \textsc{Error.}
 \end{center}
 
-Zwingli and Calvin\index{Calvin} both declared that human reason must be the judge of Holy Scripture.  Zwingli gives this counsel:  "Philosophical argumentation through conclusions of reasoning must not be neglected." -- _Expos. Chr. Faith_.
+Zwingli\index{Zwingli} and Calvin\index{Calvin} both declared that human reason must be the judge of Holy Scripture.  Zwingli gives this counsel:  "Philosophical argumentation through conclusions of reasoning must not be neglected." -- _Expos. Chr. Faith_.
 
 Calvin says:  "Can you prove through reasoning that this contains nothing unreasonable?  Yes, if it be conceded that the Lord has instituted nothing that is contrary to reason." -- _Geneva Catechism_.
 
@@ -237,7 +237,7 @@ Rom. 9, 20:  "O man, who art thou that repliest against God?"
 
 \textsc{Note.} -- Under the topic "Means of Grace" the doctrine of Holy Scripture will be further discussed.
 
-## Original Sin
+## Original Sin\index{Sin, Original}
 \begin{center}
 \textsc{Bible Doctrine and Lutheran Testimony}
 \end{center}
@@ -272,7 +272,7 @@ Rom. 8, 7:  "The carnal mind is enmity against God; for it is not subject to the
 
 Ps. 53, 3:  "The wicked are estranged from before birth; they go astray as soon as they be born, speaking lies."  (Is. 48, 8.)
 
-## Redemption
+## Redemption\index{Redemption}
 \begin{center}
 \textbf{A.  Redemption Is Through Christ.}
 
@@ -377,7 +377,7 @@ John 15, 5:  "Without Me ye can do nothing."
 \textsc{Error.}
 \end{center}
 
-The so-called _Free-will Baptists\index{Free-will Baptists}_ tell by their very name what they teach about conversion.  But not so the _Methodists\index{Methodists}_.  In section 8 of their _Articles of Religion_ they seem to disclaim the concurrence of the Holy Spirit, but their chief teachers are self-confessed _Synergists_, and their whole evangelistic and revivalistic work is based on the old heretical belief in freedom of the will.  John Wesley says in his _Scripture Doctrine of Predestination_:  "Oh, you are a defender of the freedom of the will, you assume a free will in man!  I assume nothing but what Scripture says, and that you ought to allow me to assume.  I do not assume that a man has will or power to do anything good of himself, but by the grace of God we may do everything.  We believe that the moment Adam fell, he had no more freedom of the will, but that when God, in His free grace, promised him and his seed a Savior, He then _returned_ to humanity a free will and power to accept the proffered salvation."  Professor W. F. Warner, in his _Systematic Theology_, speaks in similar terms.  Also T. N. Ralston, in his _Outlines of Theology_.  _The Cumberland Presbyterians\index{Presbyterians}_ also err here.  In their _Origin and Doctrine_ we read:  "We object to the idea that man is passive in matters pertaining to salvation until God revives and renews him."  (p. 86.)
+The so-called _Free-will Baptists\index{Free-will Baptists}_ tell by their very name what they teach about conversion.  But not so the _Methodists\index{Methodists}_.  In section 8 of their _Articles of Religion_ they seem to disclaim the concurrence of the Holy Spirit, but their chief teachers are self-confessed _Synergists\index{Synergists}_, and their whole evangelistic and revivalistic work is based on the old heretical belief in freedom of the will.  John Wesley says in his _Scripture Doctrine of Predestination_:  "Oh, you are a defender of the freedom of the will, you assume a free will in man!  I assume nothing but what Scripture says, and that you ought to allow me to assume.  I do not assume that a man has will or power to do anything good of himself, but by the grace of God we may do everything.  We believe that the moment Adam fell, he had no more freedom of the will, but that when God, in His free grace, promised him and his seed a Savior, He then _returned_ to humanity a free will and power to accept the proffered salvation."  Professor W. F. Warner, in his _Systematic Theology_, speaks in similar terms.  Also T. N. Ralston, in his _Outlines of Theology_.  _The Cumberland Presbyterians\index{Presbyterians}_ also err here.  In their _Origin and Doctrine_ we read:  "We object to the idea that man is passive in matters pertaining to salvation until God revives and renews him."  (p. 86.)
 
 \begin{center}
 \textsl{But God says:--}
@@ -495,7 +495,7 @@ Rom. 3, 24:  "Being justified freely by His grace through the recemption that is
 \textsc{Error.}
 \end{center}
 
-1.  The _Catholic Church_, the mother of heresies regarding justification, teaches according to its apologist, J. Adam Moehler:  "The Council of Trent represents justification as a renewal of the inward man, by means whereof we become really just, as inherent in the believer, and as a restoration of the primeval state of humanity.  On this account, the same council observes that by the act of justification, faith, hope, and charity are infused into the heart of man; and that it is only in this way he is truly united with Christ and becometh a living member of His body.  In other words, justification is considered to be sanctification and forgiveness of sins, as the latter is involved in the former, and the former in the latter; it is considered an infusion of the love of God into our hearts through the Holy Spirit; and the interior state of the justified man is regarded as holy feeling, as a sanctified inclination of the will, as habitual pleasure and joy in the divine Law, as a decided and active disposition to fulfil the same in all the occurrences of life, -- in short, as a way of feeling which is in itself acceptable and well pleasing to God." -- _Symbolism_, p. 104.
+1.  The _Catholic Church\index{Roman Catholic Church}_, the mother of heresies regarding justification, teaches according to its apologist, J. Adam Moehler:  "The Council of Trent represents justification as a renewal of the inward man, by means whereof we become really just, as inherent in the believer, and as a restoration of the primeval state of humanity.  On this account, the same council observes that by the act of justification, faith, hope, and charity are infused into the heart of man; and that it is only in this way he is truly united with Christ and becometh a living member of His body.  In other words, justification is considered to be sanctification and forgiveness of sins, as the latter is involved in the former, and the former in the latter; it is considered an infusion of the love of God into our hearts through the Holy Spirit; and the interior state of the justified man is regarded as holy feeling, as a sanctified inclination of the will, as habitual pleasure and joy in the divine Law, as a decided and active disposition to fulfil the same in all the occurrences of life, -- in short, as a way of feeling which is in itself acceptable and well pleasing to God." -- _Symbolism_, p. 104.
 
 \textsc{Note.} -- It was on account of this grand confusion of "infusion," "sanctification," "feeling," and "inclination" that Luther could find no "joy in the divine Law" nor peace in the Catholic Church.  This came to him only after learning the meaning of Paul's words:  "Justified by faith, we have peace with God through our Lord Jesus Christ."  (Rom. 5, 1.)
 
@@ -541,7 +541,7 @@ This is emphatically disproved by the example of David and Peter.  Both certainl
 
 Paul bemoans the fall of Demas, counsels earnestly the exclusion of the fornicator at Corinth, but recommends him to adoption again after he had become penitent.
 
-## Sanctification
+## Sanctification\index{Sanctification}
 \begin{center}
 \textsc{Bible Doctrine.}
 \end{center}
@@ -566,7 +566,7 @@ Gal. 5, 17:  "For the flesh lusteth against the spirit, and the spirit against t
 \textsc{Error.}
 \end{center}
 
-_Catholics_ and _Methodists\index{Methodists}_ both teach complete perfection.  The former even claim that, by living up to their monastic vows, monks or nuns may attain such perfection that they are able to _sell_ to others from their superabundant stock of holiness.  This "stock" is handled by "the Church," and sold to the needy, according to the Bull _Unigenitus_ of Pope Clement VI.
+_Catholics\index{Roman Catholic Church}_ and _Methodists\index{Methodists}_ both teach complete perfection.  The former even claim that, by living up to their monastic vows, monks or nuns may attain such perfection that they are able to _sell_ to others from their superabundant stock of holiness.  This "stock" is handled by "the Church," and sold to the needy, according to the Bull _Unigenitus_ of Pope Clement VI.
 
 But the _Methodists\index{Methodists}_ do not lag far behind.  Wesley has written a special treatise on "Christian Perfection," a standard work among Methodists to this day, in which he maintains that "a Methodist is one who loves the Lord God with _all_ his heart, with _all_ his soul, with _all_ his mind, with _all_ his strength."  (§ 10.)  "But whom do you mean by 'one that is perfect'?  We mean one in whom is 'the mind which was in Christ,' one 'who so walketh as Christ also walked'; a man 'that hath clean hands and a pure heart,' or that is 'cleansed from all filthiness of flesh and spirit'; one in whom is 'no occasion of stumbling,' and who, accordingly, 'does not commit sin.'"  (§ 15, 4.)  In his _Smaller Catechism_ Dr. W. Nast says:  "Can and must a child of God, in this life, be cleansed from all sin?  Yes.  God's command is:  'Ye shall be holy, for I am holy'; and His promise is that, if we confess our sins, He will cleanse us from all unrighteousness, 1 John 1, 9."
 
@@ -612,7 +612,7 @@ Gal. 5, 22. 23:  "But the fruit of the Spirit is love, joy, peace, long-sufferin
 \textsc{Error.}
 \end{center}
 
-That the semipelagian _Catholic Church_, whose chief hope of salvation rests on human efforts, is the chief offender in this point, goes without saying.  At the Council of Trent the following canon was accepted:  "Whoever says that all deeds done before justification - be they of one kind of another - are truly sins, or merit the wrath of God; or who teaches that the more earnestly one strives to make himself qualified for grace, the more he sins; may he be cursed."  (Sess. 6, 7.) - To this _Chemnitz_ in his _Examen_, replies:  "If the deeds in themselves are not sinful, how do they become so?  I answer:  The heart as GOd's creation is good, but is, on account of sin, nevertheless called evil.  In like manner, deeds which not in themselves are evil become befouled and defiled with the unbeliever, because theya re done by people who are not reconciled with God, nor born again, but are full of guilt and sin.  For God does not judge according to outward appearance, but according to the state of the heart."  "The so-called virtues of unbelievers are not good deeds, but sins, for two reasons:  First, as to their _intention_.  It is a notable saying of St. Augustine that not the deed, but the purpose of the deed, decides virtue and vice.  For, he says, true virtues are services rendered God in the children of man and the gifts of God in the children of men.  Secondly, there is no good fruit which has not grown on the root of love.  But love, according to Gal. 5, 22, is the fruit of the Spirit.  But this is lacking in them that are not born again.  Therefore their good deeds cannot be rated as virtues.  A foul tree can bear only foul fruit, that is, sins only.  Or according to St. Augustine:  'Whatsoever is not of faith is sin, Rom. 14, 23.  This is not to be understood of meats alone (he says) but it is a general truth.'" - Bendixen Ed., 92. 93.
+That the semipelagian _Catholic Church\index{Roman Catholic Church}_, whose chief hope of salvation rests on human efforts, is the chief offender in this point, goes without saying.  At the Council of Trent the following canon was accepted:  "Whoever says that all deeds done before justification - be they of one kind of another - are truly sins, or merit the wrath of God; or who teaches that the more earnestly one strives to make himself qualified for grace, the more he sins; may he be cursed."  (Sess. 6, 7.) - To this _Chemnitz_ in his _Examen_, replies:  "If the deeds in themselves are not sinful, how do they become so?  I answer:  The heart as GOd's creation is good, but is, on account of sin, nevertheless called evil.  In like manner, deeds which not in themselves are evil become befouled and defiled with the unbeliever, because theya re done by people who are not reconciled with God, nor born again, but are full of guilt and sin.  For God does not judge according to outward appearance, but according to the state of the heart."  "The so-called virtues of unbelievers are not good deeds, but sins, for two reasons:  First, as to their _intention_.  It is a notable saying of St. Augustine that not the deed, but the purpose of the deed, decides virtue and vice.  For, he says, true virtues are services rendered God in the children of man and the gifts of God in the children of men.  Secondly, there is no good fruit which has not grown on the root of love.  But love, according to Gal. 5, 22, is the fruit of the Spirit.  But this is lacking in them that are not born again.  Therefore their good deeds cannot be rated as virtues.  A foul tree can bear only foul fruit, that is, sins only.  Or according to St. Augustine:  'Whatsoever is not of faith is sin, Rom. 14, 23.  This is not to be understood of meats alone (he says) but it is a general truth.'" - Bendixen Ed., 92. 93.
 
 This elucidation is at the present time of special value, since we are so often told of "moral life," "moral uplift," "moral force," etc., where the condition is only common decency - or hidden indecency.
 
@@ -642,7 +642,7 @@ Luke 4, 18. 19. 21 (Jesus reads Is. 61, 1-3):  "'The Spirit of the Lord is upon 
 
 It is the general belief in the _Reformed sects_, that Christ, in the Sermon on the count (Matt. 5-7), has given us "a new code of ethics," and that those who live according to it are sure of heaven.  (Why then the atonement?)
 
-The _Roman Catholic Church_ not only calls Christ a new lawgiver, but also _curses_ those who deny it.  (_Council of Trent_, Sess. 6, can. 21.)
+The _Roman Catholic Church\index{Roman Catholic Church}_ not only calls Christ a new lawgiver, but also _curses_ those who deny it.  (_Council of Trent_, Sess. 6, can. 21.)
 
 The _Methodists\index{Methodists}_ claim that Christ made an "addition to the Ten Commandments."  (Cat., No. 3.)
 
@@ -678,7 +678,7 @@ Prov. 30, 6:  "Add thou not unto His words, lest He reprove thee, and thou be fo
 \textsc{Error.}
 \end{center}
 
-Besides the _Catholics_, with their doctrine of evangelical counsels and consequent superabundant works, the worst errorists in this doctrine are the Romanizing, legalistic, and pietistic _Methodists\index{Methodists}_.  Who has not heard the claim that traveling on Sunday, indulging in innocent recreation, smoking, as well as every use of liquor, are reprehensible, sinful acts?  (See _Doctrines and Discipline_, chaps. 2. 3.)
+Besides the _Catholics\index{Roman Catholic Church}_, with their doctrine of evangelical counsels and consequent superabundant works, the worst errorists in this doctrine are the Romanizing, legalistic, and pietistic _Methodists\index{Methodists}_.  Who has not heard the claim that traveling on Sunday, indulging in innocent recreation, smoking, as well as every use of liquor, are reprehensible, sinful acts?  (See _Doctrines and Discipline_, chaps. 2. 3.)
 
 Nearly all Reformed sects are prone to legalism\index{Legalism}, and try to serve God through the commandments of men.  (Matt. 15, 9.)
 
@@ -730,9 +730,9 @@ The reason for doing good works _Chemnitz_ explains as follows:  "Such are not u
 \textsc{Error.}
 \end{center}
 
-1.  All antichristian sects, such as _Socinians, Unitarians, Mormons\index{Mormons}, Seventh-day Adventists_\index{Adventists}.  Denying the atonement of Christ, they must have "something religious" to fall back on.  But why even that?  If either all are saved at last, or the so-called wicked utterly destroyed, who would really battle "to be good"?  Their dictum of "good deeds necessary to salvation" is, therefore, only a proof of the truth that "conscience makes cowards of us all."
+1.  All antichristian sects, such as _Socinians, Unitarians\index{Unitarians}, Mormons\index{Mormons}, Seventh-day Adventists_\index{Adventists}.  Denying the atonement of Christ, they must have "something religious" to fall back on.  But why even that?  If either all are saved at last, or the so-called wicked utterly destroyed, who would really battle "to be good"?  Their dictum of "good deeds necessary to salvation" is, therefore, only a proof of the truth that "conscience makes cowards of us all."
 
-2.  The _Catholic Church_, from from _the average sectarian_, wittingly or unwittingly, has absorbed that pernicious mixture of Law and Gospel which characterizes the Roman system.
+2.  The _Catholic Church\index{Roman Catholic Church}_, from from _the average sectarian_, wittingly or unwittingly, has absorbed that pernicious mixture of Law and Gospel which characterizes the Roman system.
 
 The _Decrees of Trent_ declare (Sess. 6, c. 16):  "As a constant power flows from Christ, the Head, on the justified, who are His members, as from the vine to its branches, a power which precedes their good works, accompanies the same, and follows them, -- a power without which they can be in no wise agreeable to God and meritorious, so we are bound to believe that the justified are enabled, through works performed in God, to satisfy the divine Law, according to the conditions of this present life, and to _merit eternal life_, when they depart in a state of grace." -- _J. A. Moehler's Symbolism_, 158.
 
@@ -785,7 +785,7 @@ Rom. 1, 16:  "The Gospel of Christ is a power of God unto salvation to every one
 \textsc{Error.}
 \end{center}
 
-1.  The whole army of _Reformed_ teachers from _Zwingli_ to _"Billy" Sunday_, denies, in word and in deed, that the Scripture and the Sacraments are vehicles through which God bestows His grace on mankind.  _Calvin\index{Calvin}_ calls the Word "a sound only, that has effect, not because of its being spoken (or used), but because it is believed" (_Inst._, IV, 14, 4).  _Zwingli_ says in his _Reckoning of Faith_:  "I believe, yea I know, that all the Sacraments are so far from conferring grace that they do not even convey or distribute it.... Moreover, a channel or vehicle is not necessary to the Spirit; for He Himself is the virtue and energy, whereby all things are borne, and has no need of being borne."  (§ 7.)
+1.  The whole army of _Reformed_ teachers from _Zwingli_ to _"Billy" Sunday_, denies, in word and in deed, that the Scripture and the Sacraments are vehicles through which God bestows His grace on mankind.  _Calvin\index{Calvin}_ calls the Word "a sound only, that has effect, not because of its being spoken (or used), but because it is believed" (_Inst._, IV, 14, 4).  _Zwingli\index{Zwingli}_ says in his _Reckoning of Faith_:  "I believe, yea I know, that all the Sacraments are so far from conferring grace that they do not even convey or distribute it.... Moreover, a channel or vehicle is not necessary to the Spirit; for He Himself is the virtue and energy, whereby all things are borne, and has no need of being borne."  (§ 7.)
 
 2.  According to _Methodism_ "The means of grace are either instituted or prudential."  The instituded are "prayer, searching the Scriptures, the Lord's Supper, fasting, and Christian conference."  (_Doctr. and Discipl._, §§ 118-122.)  According to this explanation everything enjoined in Scripture is a means of grace, _e. g._, the Ten Commandments with their deeper, spiritual explanation, as found in ther Sermon on the Mount, Matt. 5-7!  Of the Sacraments the _Methodists\index{Methodists}_ say:  "A Sacrament is an outward and visible _sign_ of an inward and spiritual grace."  -- _Cat,_, No. 3.
 
@@ -793,11 +793,11 @@ Rom. 1, 16:  "The Gospel of Christ is a power of God unto salvation to every one
 
 4.  _Presbyterians\index{Presbyterians}_ and _Congregationalists\index{Congregationalists}_ confess:  "Sacraments are holy _signs_ and seals of the covenant of grace, immediately instituted by God, to represent Christ and His benefits, and to confirm our interest in Him, as also to put a visible difference between those that belong unto the Church and the rest of the world, and solemnly to engage them to the service of God in Christ, according to His Word." -- Chap. XXVII, 1.  _Savoy Decl._, chap. XXVIII.
 
-\textsc{Note. --} The Lutheran Church also calls the Sacraments "signs," but _not only_ that.  Primarily they are _means_ through which God gives His grace.  The Word of God as a whole is such an effective means; why, then, should not the words of institution in the Sacraments be so?
+\textsc{Note. --} The Lutheran Church also calls the Sacraments\index{Sacraments} "signs," but _not only_ that.  Primarily they are _means_ through which God gives His grace.  The Word of God as a whole is such an effective means; why, then, should not the words of institution in the Sacraments be so?
 
 "Christ has instituted the Sacraments for thereby to strengthen and preserve our faith.  Our hearts have difficulty in holding fast to the Word alone.  So, when it is proclaimed for all in general, our conscience vexes us with questions, whether God also means me, or, if I also, I personally, may accept it and console myself with it.  Therefore Christ, being rich in mercy, instituted such outward, visible Sacraments, in and through which, as through visible, public evidences, He wishes to deal with us, that we may have a sure seal and bond that the primises of the Gospel concern eacn and every one personally, and that He may effectively apply, make sure, and seal such truth in the hearts of all those who use the Sacraments in true faith.  And there is no doubting that the Son of God, through these means, works mightily to strengthen and preserve the faith in the believers.  Consequently, the Sacramentarians are rightly rejected, who hold that the Sacraments are only outward signs that only indicate or signify something." -- _Enchiridion_, Chemnitz.
 
-Since the twelfth century, the Catholic Church has held that there are seven Sacraments:  Baptism, Confirmation, the Lord's Supper, Penance, Orders (Priesthood, etc.), Marriage, and Extreme Unction.  In their consecration of bells, lights, water, etc., formulas are used "which presuppose a magical effect."
+Since the twelfth century, the Catholic Church\index{Roman Catholic Church} has held that there are seven Sacraments:  Baptism, Confirmation, the Lord's Supper, Penance, Orders (Priesthood, etc.), Marriage, and Extreme Unction.  In their consecration of bells, lights, water, etc., formulas are used "which presuppose a magical effect."
 
 \begin{center}
 \textsl{But God says:--}
@@ -1045,9 +1045,9 @@ John 20, 23 (to all the disciples):  "Whosoever sins ye remit, they are remitted
 \textsc{Error.}
 \end{center}
 
-1.  The well-known position of the _Catholic Church_, that "no one can enter heaven unless a _priest_ has opened the door" (_Rom. Cat._, II, 5, 43), need here only be mentioned.  And the oft-repeated saying that St. Peter is the doorkeeper of heaven is only a monastic fable.
+1.  The well-known position of the _Catholic Church\index{Roman Catholic Church}_, that "no one can enter heaven unless a _priest_ has opened the door" (_Rom. Cat._, II, 5, 43), need here only be mentioned.  And the oft-repeated saying that St. Peter is the doorkeeper of heaven is only a monastic fable.
 
-2.  The _Reformed Churches_, one and all, practise neither private nor public absolution.  Zwingli ridiculed it, and Calvin\index{Calvin} says:  "The power of the keys is simply the preaching of the Gospel,...and in so far as men are concerned, it is not so much power as ministry.  Properly speaking, Christ did not give this power to men, but to His Word, of which He made men the ministers." -- _Instit._, IV, 11, 1.
+2.  The _Reformed Churches_, one and all, practise neither private nor public absolution.  Zwingli\index{Zwingli} ridiculed it, and Calvin\index{Calvin} says:  "The power of the keys is simply the preaching of the Gospel,...and in so far as men are concerned, it is not so much power as ministry.  Properly speaking, Christ did not give this power to men, but to His Word, of which He made men the ministers." -- _Instit._, IV, 11, 1.
 
 3.  The _Episcopalians\index{Episcopal Church}_ have substituted for absolution this formula in _Warning for the Celebration of the Holy Communion_:  "If there be any of you who by this means cannot quiet his own conscience herein, but requireth further comfort or counsel, let him come to me, or to some other minister of God's Word, and open his grief that he may receive such godly counsel and advice as may tend to the quieting of his conscience and the removing of all scruple and doubtfulness." -- _Book of Com. Prayer_, Exhort.
 
@@ -1075,7 +1075,7 @@ The Tenth Article in the _Augsburg Confession_ is substantially the same as the 
 \textsc{Error.}
 \end{center}
 
-1.  _Zwingli_, the father of Reformed rationalism, says in his preface to _A Short Christian Instruction to the Clergy_:  "The Lord's Supper is nothing more than the feast of the soul; and Christ instituted it as a remembrance of Himself.  When man trusts in the suffering and redemption of Christ, he shall be saved.  Of this He has left us a _sure and visible sign_ in the emblems of His body and blood, and entreats us to eat and to drink both in remembrance of Him." -- Winer, Clark's ed., p. 269.  (Compare _Darst._, XVI, 2.)
+1.  _Zwingli\index{Zwingli}_, the father of Reformed rationalism, says in his preface to _A Short Christian Instruction to the Clergy_:  "The Lord's Supper is nothing more than the feast of the soul; and Christ instituted it as a remembrance of Himself.  When man trusts in the suffering and redemption of Christ, he shall be saved.  Of this He has left us a _sure and visible sign_ in the emblems of His body and blood, and entreats us to eat and to drink both in remembrance of Him." -- Winer, Clark's ed., p. 269.  (Compare _Darst._, XVI, 2.)
 
 In his _Reckoning of Faith_ (presented at Augsburg, 1530) this is his standpoint:  "eighthly, I believe that in the Holy Eucharist, _i. e._, the supper of thanksgiving, the true body of Christ is present by the contemplation of faith; _i. e._, that they who thank the Lord for the kindness conferred on us in His Son, acknowledge that He assumed true flesh, in it truly suffered, truly washed away our sins in His own blood; and thus everything done by Christ becomes present to them by the contemplation of faith.  But that the body of Christ in essense and really -- _i. e._, the natural body itself -- is either present in the Supper or masticated with our mouth or teeth, as the papists and some who long for the fleshpots of Egypt assert, we not only deny, but firmly maintain is an error opposed to God's Word." -- Jacobs, _Book of Concord_, I, 170.
 
@@ -1131,9 +1131,9 @@ Matt. 26, 28:  "For this is My blood of the New Testament, which is shed for man
 
 \textsc{Note 1. --} No Christian dogma has a larger literature to its credit than the Lord's Supper.  The theologians of the early Church as a whole, decidedly taught the real presence; but their lack of precision, at times, has given fanatics and Romanists arguments for the defense of their own strange opinions concerning the Sacrament of the Altar.  
 
-Like Popery itself, the present doctrine of the Lord's Supper in the Catholic Church is a rather late development.  In 844, the French monk Paschasius Radbertus published a work wherein the change of bread and wine into the flesh and blood of Christ was vigorously defended (metabolism, transubstantiation).  In 1214, at the Fourth Lateran Council, this unscriptural opinion was made the doctrine of the Church (reiterated at the Council of Trent, in 1551); and in 1415, at the Council of Constance (where John Hus was burned), it was finally decreed that the consecrated _bread alone_ should be distributed to the lay people (concomitance^[The doctrine that the consecrated bread contains the blood, hence the wine need not be given to the laity.]), the wine to be drunk by the officiating priest, to insure against any of the "precious drops" being spilled in any manner!  And finally, the consecrated elements are sacrificed as a "bloodless offering," espeically for the dead in purgatory by being elevated in the mass; or the consecrated wafer is carried about in solemn procession to be _worshipped_ by the populace. 
+Like Popery itself, the present doctrine of the Lord's Supper in the Catholic Church\index{Roman Catholic Church} is a rather late development.  In 844, the French monk Paschasius Radbertus published a work wherein the change of bread and wine into the flesh and blood of Christ was vigorously defended (metabolism, transubstantiation).  In 1214, at the Fourth Lateran Council, this unscriptural opinion was made the doctrine of the Church (reiterated at the Council of Trent, in 1551); and in 1415, at the Council of Constance (where John Hus was burned), it was finally decreed that the consecrated _bread alone_ should be distributed to the lay people (concomitance^[The doctrine that the consecrated bread contains the blood, hence the wine need not be given to the laity.]), the wine to be drunk by the officiating priest, to insure against any of the "precious drops" being spilled in any manner!  And finally, the consecrated elements are sacrificed as a "bloodless offering," espeically for the dead in purgatory by being elevated in the mass; or the consecrated wafer is carried about in solemn procession to be _worshipped_ by the populace. 
 
-These abuses were soon discarded by the Reformers (_Augsb. Conf._, XXIV) but not all reverted to apostolic practise.  Zwingli and Calvin\index{Calvin} differ somewhat in their definitions of the Sacrament of the Altar, but _agree_ in denying the real presence.  And their _chief_ reason for doing so is the rationalistic argument:  human reason cannot understand the real presence of Christ's body and blood in the Sacrament.
+These abuses were soon discarded by the Reformers (_Augsb. Conf._, XXIV) but not all reverted to apostolic practise.  Zwingli\index{Zwingli} and Calvin\index{Calvin} differ somewhat in their definitions of the Sacrament of the Altar, but _agree_ in denying the real presence.  And their _chief_ reason for doing so is the rationalistic argument:  human reason cannot understand the real presence of Christ's body and blood in the Sacrament.
 
 \textsc{Note 2. --} Reformed writers on the Lord's Supper generally call the Lutheran doctrine of the real presence "consubstantiation\index{Consubstantiation}."  This term means, "of the same substance," _viz._, that in the Sacrament the bread and the body of Christ form one substance.  Those who apply the term "consubstantiation" to the Lutheran doctrine of the Lord's Supper misprepresent our position.  We do not teach that the bread and the body of Christ, or the wine and His blood, form one substance, but that in, with, and under the bread we receive, not in a natural, but supernatural (sacramental) manner, the true body of Christ, and with the wine His true blood.  This is the plain doctrine of Scripture, though too deep for human reason to fathom.
 
@@ -1198,7 +1198,7 @@ Acts 1, 25:  "Judas by transgression fell that he might go to _his own place_."
 \textsc{Error.}
 \end{center}
 
-1.  The _Catholic Church_ teaches that "there exists in the next life a middle state of temporary punishment, allotted for those who have died in venial sin, or who have not satisfied the justice of God for sins already forgiven.... This intermediate state is commonly called purgatory."  (Gibbons, _Faith of Our Fathers_, p. 248.)  This declaration is substantially the same as that contained in canon 30, session 6, of the Council of Trent, and in question 3, part I, 6, of the _Roman Catechism_. -- When the cardinal says that the doctrine of purgatory "is clearly taught in the Old Testament; that it is, at least, insinuated in the New Testament; that it is unanimously proclaimed by the Fathers of the Church," but includes in the Old Testament the apocryphal books of the Maccabees (see 2 Macc. 12, 43-46), and mentions that the Monatist Tertullian, A. D. 160-220, as the first testifying "Father," his "clear" and "unanimous" proofs do not appear convincing.
+1.  The _Catholic Church\index{Roman Catholic Church}_ teaches that "there exists in the next life a middle state of temporary punishment, allotted for those who have died in venial sin, or who have not satisfied the justice of God for sins already forgiven.... This intermediate state is commonly called purgatory."  (Gibbons, _Faith of Our Fathers_, p. 248.)  This declaration is substantially the same as that contained in canon 30, session 6, of the Council of Trent, and in question 3, part I, 6, of the _Roman Catechism_. -- When the cardinal says that the doctrine of purgatory "is clearly taught in the Old Testament; that it is, at least, insinuated in the New Testament; that it is unanimously proclaimed by the Fathers of the Church," but includes in the Old Testament the apocryphal books of the Maccabees (see 2 Macc. 12, 43-46), and mentions that the Monatist Tertullian, A. D. 160-220, as the first testifying "Father," his "clear" and "unanimous" proofs do not appear convincing.
 
 2.  Though the representative _Reformed_ Churches stand for retribution in their confessions, the prevailing opinion among their members is that "we get all the hell there is here on earth."  Such as opinion is not even _rationalism_.  The conception of a just God forbids it.  Yet the REformed sects in their preaching and in their literature very generally ignore the Bible-doctrine concerning a state of punishment after death.
 
