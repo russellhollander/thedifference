@@ -1,6 +1,6 @@
 # PART II.  Doctrines of the Church {.unnumbered}
 
-## Concerning the Truth\index{Christian Religion, Truth of} of the Christian Religion
+## Concerning the Truth\index{Christian Religion, Truth of} of the Christian Religion {.unnumbered}
 \begin{center}
 \textsc{Bible Doctrine.}
 \end{center}
@@ -75,7 +75,7 @@ Though the theory on which Darwinian evolution rests has been discarded as insuf
 
 5.  The Pithecanthropus Erectus^[The "ape that walked like a man."  The existence of this creature has never been proved.] has for some years (since 1891) been the most popular relic with evolutionists.  The collection consisted of a skull above the eyes, a leg-bone, and two teeth, -- found in Java at separate places.  The age of this "missing link" was guessed by various scientists to be from one hundred thousand to one million years!  According to measurements the skull is that of an idiot.  (See _The Other Side of Evolution_, Alex. Patterson, D. D. Winona Publ. Co., Chicago, 1903.)
 
-## The Holy Scriptures\index{Scripture, the Holy}
+## The Holy Scriptures\index{Scripture, the Holy} {.unnumbered}
 \begin{center}
 \textbf{A.  The Bible Is God's Revelation to Mankind}
 
@@ -237,7 +237,7 @@ Rom. 9, 20:  "O man, who art thou that repliest against God?"
 
 \textsc{Note.} -- Under the topic "Means of Grace" the doctrine of Holy Scripture will be further discussed.
 
-## Original Sin\index{Sin, Original}
+## Original Sin\index{Sin, Original} {.unnumbered}
 \begin{center}
 \textsc{Bible Doctrine and Lutheran Testimony}
 \end{center}
@@ -272,7 +272,7 @@ Rom. 8, 7:  "The carnal mind is enmity against God; for it is not subject to the
 
 Ps. 53, 3:  "The wicked are estranged from before birth; they go astray as soon as they be born, speaking lies."  (Is. 48, 8.)
 
-## Redemption\index{Redemption}
+## Redemption\index{Redemption} {.unnumbered}
 \begin{center}
 \textbf{A.  Redemption Is Through Christ.}
 
@@ -350,7 +350,7 @@ Matt. 18, 11:  "The Son of Man is come to save _that which was lost_."
 
 2 Pet. 2, 1:  "Denying the Lord that brought them, and bring upon themselves swift destruction."  (Christ died also for those who by reason of their unbelief are finally lost.)
 
-## Conversion\index{Conversion}
+## Conversion\index{Conversion} {.unnumbered}
 \begin{center}
 \textsc{Bible Doctrine.}
 \end{center}
@@ -393,7 +393,7 @@ Matt. 7, 16:  "Do men gather grapes of thorns or figs of thistles?"  (12, 34.)
 
 \textsc{Free Will.--} We often hear this expression:  "We have a free will, and can do as we please."  To this the _Augsburg Confession_ makes this reply:  "Concerning free will they teach that man's will has some liberty to work a civil righteousness, and to choose between things that are subject to human reason, but that it has no power to work the righteousness of God, or a spiritual righteousness, without the Spirit of God, because that the natural man receives not the things of the Spirit of God, 1 Cor. 2, 14.  But this is wrought in the heart when man receives the Spirit of God through the Word." -- Art XVIII.
 
-## Predestination\index{Predestination}
+## Predestination\index{Predestination} {.unnumbered}
 \begin{center}
 \textsc{Bible Doctrine.}
 \end{center}
@@ -468,7 +468,7 @@ Titus 2, 11:  "For the grace of God that bringeth salvation hath appeared to _al
 
 On an other phase of this mysterious question we will let _Dr. Martin Chemintz_ speak.  He was not only the author of the Eleventh Article in the _Formula of Concord_, but, at the time of its composition, superintendant of the churches of Braunschweig.  In his _Enchiridion_, a work written especially for the instructino of the clergy in his diocese, he puts the following question:  "Does God make such election first after a time, as when men have become penitent and believers, or is it made on account of their piety which God foresees?"  _Answer_:  "St. Paul says in Eph. 1, 4:  'He hath chosen us in Christ before the foundation of the world'; and in 2 Tim. 1, 9:  'He hath saved us, and called us with an holy calling, not according to our works, but according to His own purpose and grace, which was given us in Christ Jesus before the world began.'  Hence, the electino of God does not follow after our faith and righteousness, but goes before them, as a cause of it all.  Moreover, whom He did predestinate, them He also called; and whom He called, them He also justified, Rom. 8, 30.  And in Eph. 1, 4, Paul does not say that we were elected because we _were_ holy or had _become_ holy, but He says:  He hath chosen us that we should _be_ holy.  For predestination is a cause of everything pertaining to salvation, as Paul says:  'We have obtained an inheritance, being predestinated according to the purpose of Him who workth all things after the counsel fo His own will, that we should be to the praise of His glory, who first trusted in Christ.' (Eph. 1, 11. 12.)  And this election is not made in view of our present or future deeds, but according to His own purpose and grace. (Rom. 9; 2 Tim. 1.)"
 
-## Justification\index{Justification by Faith}
+## Justification\index{Justification by Faith} {.unnumbered}
 \begin{center}
 \textsc{Bible Doctrine.}
 \end{center}
@@ -541,7 +541,7 @@ This is emphatically disproved by the example of David and Peter.  Both certainl
 
 Paul bemoans the fall of Demas, counsels earnestly the exclusion of the fornicator at Corinth, but recommends him to adoption again after he had become penitent.
 
-## Sanctification\index{Sanctification}
+## Sanctification\index{Sanctification} {.unnumbered}
 \begin{center}
 \textsc{Bible Doctrine.}
 \end{center}
@@ -758,7 +758,7 @@ Jer. 23, 29:  "Is not My Word like as a fire? saith the Lord, and like a hammer 
 
 1 Cor. 1, 18:  "For the preaching of the Cross is to them that perish foolishness, but unto us which are saved _it is the power of God_."
 
-## The Means of Grace\index{Means of Grace}
+## The Means of Grace\index{Means of Grace} {.unnumbered}
 \begin{center}
 \textbf{A.  What Are the Means of Grace?}
 
@@ -1163,7 +1163,7 @@ _Answer._ -- Christ's body participates in the attributes of the divine nature. 
 
 When the Lutheran Church uses unleavened wafers at Communion, it does so because they are convenient to distribute, and because the bread used by Christ was unleavened.  In like manner it also uses _grape-wine_, not -juice, nor a juice of some other fruit, or merely water, as some temperance fanatics prescribe, because this was the wine of the Passover, and because Christ explicitly mentions "the fruit of the vine" (Matt. 26, 29) as the proper element.  
 
-## After Death\index{Death, Life after}
+## After Death\index{Death, Life after} {.unnumbered}
 \begin{center}
 \textsc{Bible Doctrine.}
 \end{center}
