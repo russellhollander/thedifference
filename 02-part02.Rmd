@@ -91,10 +91,10 @@ Luke 16, 29:  "They have Moses and the prophets; let them hear them."
 John 17, 17:  "Sanctify them through Thy truth; Thy Word is truth."
 
 \begin{center}
-\textsl{Lutheran Testimony}
+\textsl{Lutheran Testimony:--}
 \end{center}
 
-"We believe, teach, and confess that the only rule and standard according to which at once all dogmas and teachers should be esteemed and jusged are nothing else than the prophetic and apostolic Scriptures of the Old and the New Testament, as it is written:  'Thy Word is a lamp unto my feet and a light unto my path' (Ps. 119, 105), and St. Paul:  'Though an angel from heaven preach any other gospel unto you, let him be accursed' (Gal. 1, 8). (_Form. Con._, Epit., Introd., § 1.)
+"We believe, teach, and confess that the only rule and standard according to which at once all dogmas and teachers should be esteemed and judged are nothing else than the prophetic and apostolic Scriptures of the Old and the New Testament, as it is written:  'Thy Word is a lamp unto my feet and a light unto my path' (Ps. 119, 105), and St. Paul:  'Though an angel from heaven preach any other gospel unto you, let him be accursed' (Gal. 1, 8). (_Form. Con._, Epit., Introd., § 1.)
 
 \begin{center}
 \textsc{Error.}
@@ -106,13 +106,13 @@ John 17, 17:  "Sanctify them through Thy truth; Thy Word is truth."
 \textsl{But God says:--}
 \end{center}
 
-Rom. 3, 1. 2:  "What advantage, then hat the Jew?  Much every way:  chiefly, because that unto them were commiteed _the oracles of God_."
+Rom. 3, 1. 2:  "What advantage, then hath the Jew?  Much every way:  chiefly, because that unto them were commiteed _the oracles of God_."
 
 Heb. 1, 1. 2:  "God, who at sundry times and in diverse manners spake in time past unto the fathers by the prophets, _hath in these last days spoken unto us_ by His Son."
 
 1 Pet. 1, 16:  "For we have _not followed cunningly devised fables_ when we made known unto you the power and coming of our Lord Jesus Christ, but were eye-witnesses of His majesty."
 
-2.  The so-called higher critics\index{Critics, Higher} fain would find all kinds of flaws and faults in the Bible:  Creation is a myth; the patriarchs never lived, at least not at the time states; Moses, and most of the other authors, never wrote the books ascribed to them; the contents are unreliable; the so-called prophecies are post-event descriptions, etc., etc.
+2.  The so-called higher critics\index{Critics, Higher} fain would find all kinds of flaws and faults in the Bible:  Creation is a myth; the patriarchs never lived, at least not at the time stated; Moses, and most of the other authors, never wrote the books ascribed to them; the contents are unreliable; the so-called prophecies are post-event descriptions, etc., etc.
 
 \begin{center}
 \textsl{But God says:--}
@@ -146,7 +146,7 @@ In 1546, the Catholic\index{Roman Catholic Church} Church\index{Catholic Church!
 \textsc{Bible Doctrine.}
 \end{center}
 
-The contents of the Bible were revealed to the sacred writers by inspiration\index{Inspiration of Scriptures} of the Holy Spirit
+The contents of the Bible were revealed to the sacred writers by inspiration\index{Inspiration of Scriptures} of the Holy Spirit.
 
 2 Tim. 3, 16:  "All Scripture is given _by inspiration of God_, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness."
 
@@ -168,7 +168,7 @@ The great majority of modern exegetes, especially the so-called higher critics, 
 \textsl{But God says:--}
 \end{center}
 
-1 Cor. 2, 12. 13:  "NOw we have received, not the spirit of the world, but the Spirit which is of God, that we might known the things that are freely given to us by God.  Which things also we speak, not in the _words_ which man's wisdom teacheth, but _which the Holy Ghost teacheth_, comparing spiritual things with spiritual."
+1 Cor. 2, 12. 13:  "Now we have received, not the spirit of the world, but the Spirit which is of God, that we might know the things that are freely given to us by God.  Which things also we speak, not in the _words_ which man's wisdom teacheth, but _which the Holy Ghost teacheth_, comparing spiritual things with spiritual."
 
 1 Cor. 2, 7. 10:  "But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory; which none of the princes of this world knew.  But _God hath revealed them unto us_ by His Spirit."
 
@@ -192,7 +192,7 @@ Acts 2, 4:  "And they were filled with the Holy Spirit, and began to speak with 
 
 Mark 13, 11:  "For it is not ye that speak, but the Holy Ghost."
 
-In almost innumerable places we read:  "Thus saith the Lord"; "The Lord said"' "The word of the Lord," and the like, especially numerous in the writings of the prophets.  So also the message of the apostles:--
+In almost innumerable places we read:  "Thus saith the Lord"; "The Lord said"; "The word of the Lord," and the like, especially numerous in the writings of the prophets.  So also the message of the apostles:--
 
 1 Cor. 2, 13:  "Which things also we speak, not in words which man's wisdom teacheth, but which the Holy Ghost teacheth."
 
@@ -205,6 +205,8 @@ In almost innumerable places we read:  "Thus saith the Lord"; "The Lord said"' "
 \end{center}
 
 The meaning of the words of Scripture must be sought in the Scriptures themselves, not outside of them.
+
+2 Pet. 1, 20:  "No prophecy of the Scriptures is of any private interpretation."
 
 2 Pet. 4, 11:  "If any man speak, let him speak as the oracles of God."
 
